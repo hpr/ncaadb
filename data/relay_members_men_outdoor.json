@@ -1,0 +1,189 @@
+[
+  {
+    "year": 1942,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 2,
+    "school": "Great Lakes",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Chester Lipski"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Frank Fletcher"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Harold Bogrow"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Roy Cochran"
+      }
+    ]
+  },
+  {
+    "year": 1942,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 3,
+    "school": "West Coast",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Luther Stevens"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Gene Clawson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Walt Smith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "John Long"
+      }
+    ]
+  },
+  {
+    "year": 1947,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 2,
+    "school": "Pacific Coast",
+    "mark_str": "3:13.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Joe Nebolan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Earl Robinson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Lawrence Hoff"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dick Keniston"
+      }
+    ]
+  },
+  {
+    "year": 1947,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 3,
+    "school": "East",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Reggie Pearman"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jack Dianetti"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Clarence Doak"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Harold Meyhew"
+      }
+    ]
+  },
+  {
+    "year": 1947,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 4,
+    "school": "Midwest",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Harry Cogswell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bill Bradley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Herb Barten"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bill Clifford"
+      }
+    ]
+  },
+  {
+    "year": 1964,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 7,
+    "school": "Oklahoma State",
+    "mark_str": "3:13.2",
+    "source_url": "https://www.newspapers.com/article/the-wichita-eagle-in-ncaa-championships/195509960/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jack Miller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Winningham"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "John Perry"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.2",
+        "name": "Dave Perry"
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "year": 1999,
+    "discipline": "5000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Michael Aish",
+    "school": "Western Colorado",
+    "place": 1,
+    "notes": "Won Division II championships, not Division I"
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Mika Laaksonen",
+    "school": "UTEP",
+    "notes": "Replaced with corrected place via missing_places.json"
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "John Hamilton",
+    "school": "Wichita State",
+    "notes": ""
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Roshawn James",
+    "school": "Fresno State",
+    "notes": ""
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Rick Werline",
+    "school": "ULM",
+    "notes": ""
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jesse Saglio",
+    "school": "Georgetown",
+    "notes": ""
+  },
+  {
+    "year": 1992,
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Kevin McMahon",
+    "school": "Georgetown",
+    "notes": ""
+  },
+  {
+    "year": 1928,
+    "discipline": "Pole Vault",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Albright (Coe)",
+    "school": "Iowa",
+    "notes": "School should actually be Coe"
+  },
+  {
+    "year": 2007,
+    "discipline": "10000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Stephanie Bruce",
+    "school": "USA: United States",
+    "place": 5,
+    "notes": "Duplicate of Stephanie Rothstein - same person listed with national team"
+  },
+  {
+    "year": 2025,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Relay member unknown",
+    "school": "South Carolina",
+    "place": null,
+    "notes": "dnc (did not compete) in PDF"
+  },
+  {
+    "year": 2006,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "school": "TCU",
+    "place": 999,
+    "notes": "Duplicate DQ entry; place=8 rows already exist via relay templates"
+  },
+  {
+    "year": 2003,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "school": "TCU",
+    "place": 999,
+    "notes": "Orphaned DQ rows; team resolved at place=2 via relay templates"
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "school": "Louisiana State",
+    "notes": "Single DNF row with school name as name; replaced with 4 relay member unknown rows via missing_places"
+  }
+]

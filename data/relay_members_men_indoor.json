@@ -1,0 +1,7935 @@
+[
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Morgan State",
+    "mark_str": "3:14.5",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "50.4",
+        "name": "Dennis Edghill"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.1",
+        "name": "Henry Hawthorne"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.8",
+        "name": "Timothy Johnson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.3",
+        "name": "Nick Lee"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "3:15.3",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bill Heidelberger"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Marshall Uzzle"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Stan Kozlowski"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Larry Livers"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Kentucky State",
+    "mark_str": "3:15.3",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Oklahoma State",
+    "mark_str": "3:16.1",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jim Metcalf"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Perry"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tom von Ruden"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dave Perry"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Kansas",
+    "mark_str": "3:16.3",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Southern Illinois",
+    "mark_str": "3:17.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Iowa",
+    "mark_str": "3:18.5",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Oklahoma State",
+    "mark_str": "7:25.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.5",
+        "name": "Jim Metcalf"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.0",
+        "name": "John Perry"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.0",
+        "name": "Tom von Ruden"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:52.4",
+        "name": "Dave Perry"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "7:27.9",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jim Orr"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Al Adams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tom Sullivan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Noel Carroll"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Manhattan",
+    "mark_str": "7:34.1",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Courtenay Ettricks"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Elisiab Acosta"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jim Sherlock"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Joe Kearney"
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Penn State",
+    "mark_str": "7:38.3",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Tom Bedick"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dick Lampman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Art Morris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bill Reilly"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Morgan State",
+    "mark_str": "3:15.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.8",
+        "name": "Ray Pollard"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.6",
+        "name": "Herman Hawthorne"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.5",
+        "name": "Malbert Brown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.6",
+        "name": "Howard Stanback"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Central State",
+    "mark_str": "3:15.7",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Zach Harris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Frank Ross"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "William Hicks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Martin McGrady"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Oklahoma",
+    "mark_str": "3:15.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Tom Melton"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jim Shields"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jim Hardwick"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bill Calhoun"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Bowling Green State",
+    "mark_str": "3:16.3",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Henry Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tom Wright"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Ralph Canady"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bob Classen"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "American",
+    "mark_str": "3:16.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Andrew Bell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bob Campbell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Ross Fields"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dan Frye"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Oklahoma State",
+    "mark_str": "7:28.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:56.1",
+        "name": "Arnold Droke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.1",
+        "name": "Jim Metcalf"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:52.6",
+        "name": "John Perry"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.4",
+        "name": "Tom von Ruden"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "7:28.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alan McCafferty"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Craig Nation"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Ian Hamilton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.8",
+        "name": "Dave Patrick"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "7:28.9",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.6",
+        "name": "Paul Perry"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.8",
+        "name": "Ricardo Urbina"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Southern California",
+    "mark_str": "7:29.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bruce Bess"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dave Buck"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Dennis Carr"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Roger Wolff"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Fordham",
+    "mark_str": "7:29.9",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Michigan",
+    "mark_str": "7:42.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Elmo Morales"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Ken Coffin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jim Mercer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Alex McDonald"
+      }
+    ]
+  },
+  {
+    "year": 1967,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Notre Dame",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Pete Farrell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bob Timm"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Chuck Vehorn"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Ken Howard"
+      }
+    ]
+  },
+  {
+    "year": 1968,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "St. John's",
+    "mark_str": "7:28.2",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ken Corneille"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Rich Schroeter"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Phil Tobin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Donald Rowe"
+      }
+    ]
+  },
+  {
+    "year": 1968,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Notre Dame",
+    "mark_str": "9:51.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Pete Farrell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bob Timm"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Keven O'Brien"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Chuck Vehorn"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Tennessee",
+    "mark_str": "3:14.6",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.8",
+        "name": "Gary Womble"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.0",
+        "name": "Larry Kelley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.0",
+        "name": "Audry Hardy"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.8",
+        "name": "Hardee McAlhaney"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Catholic (D.C.)",
+    "mark_str": "3:17.2",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bill Ennis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Albert MacPherson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tom Fitzpatrick"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Baldwin Hurns"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Villanova",
+    "mark_str": "3:17.5",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Hardge Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Lamotte Hyman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Larry James"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Rene Schlag"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Kansas State",
+    "mark_str": "7:29.7",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.4",
+        "name": "Dave Peterson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.3",
+        "name": "Bob Barratti"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:54.3",
+        "name": "Jerome Howe"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:51.2",
+        "name": "Ken Swenson"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Notre Dame",
+    "mark_str": "7:33.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.2",
+        "name": "Mike McCann"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.8",
+        "name": "John Brady"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:54.2",
+        "name": "Joe Quigley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.7",
+        "name": "Rick Wohlhuter"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Michigan",
+    "mark_str": "7:33.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:56.2",
+        "name": "Taimo Leps"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.2",
+        "name": "Rich Storrey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:58.6",
+        "name": "Paul Armstrong"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:51.0",
+        "name": "Ron Kutschinski"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Missouri",
+    "mark_str": "7:33.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.2",
+        "name": "Dave Ganz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:53.4",
+        "name": "John Wilson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:53.5",
+        "name": "Dave Zimmerman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:51.7",
+        "name": "Craig Endicott"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Oklahoma State",
+    "mark_str": "7:37.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.6",
+        "name": "Tom Laubert"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:53.6",
+        "name": "Peter Kaal"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:56.7",
+        "name": "Mike Evans"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:53.1",
+        "name": "Steve Gerkin"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Villanova",
+    "mark_str": "9:42.5",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.2",
+        "name": "Andy O'Reilly"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "50.6",
+        "name": "Ernie Bradshaw"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.4",
+        "name": "Chris Mason"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:04.6",
+        "name": "Frank Murphy"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Southern California",
+    "mark_str": "9:48.2",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.8",
+        "name": "Howard Becker"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "51.0",
+        "name": "Monty Turner"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.0",
+        "name": "Carl Trentadue"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:05.3",
+        "name": "Ole Oleson"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "St. John's",
+    "mark_str": "9:48.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.0",
+        "name": "Rich Schroeter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.1",
+        "name": "Bill Maresca"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.7",
+        "name": "Don Rowe"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:05.6",
+        "name": "Phil Tobin"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Drake",
+    "mark_str": "9:51.6",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.3",
+        "name": "Warren Whitted"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.3",
+        "name": "Brent Slay"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.0",
+        "name": "Gordon Hoffert"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:08.9",
+        "name": "Elliott Evans"
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Kansas",
+    "mark_str": "9:56.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.8",
+        "name": "Paul Mattingly"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "50.3",
+        "name": "Neal Caterson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:59.9",
+        "name": "Thorn Bigley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:11.4",
+        "name": "Doug Smith"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rutgers",
+    "mark_str": "3:19.6",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bob Kerr"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Herma"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jim Smith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Tom Ulan"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Pittsburgh",
+    "mark_str": null,
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Smittie Brown"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dennis Schatzman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "John Aiken"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dorel Watley"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Kansas State",
+    "mark_str": "7:25.3",
+    "original_mark": "7:27.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Dale Alexander"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dave Peterson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Bob Barratti"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Ken Swenson"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Drake",
+    "mark_str": "7:36.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": null,
+        "possible_name": "Warren Whitted"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": null,
+        "possible_name": "Bob Becker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": null,
+        "possible_name": "Ray Dunn"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": null,
+        "possible_name": "Dave Naumann"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "10:05.2",
+    "source_url": "https://hdl.handle.net/10822/555339",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bob Schwetje"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bill Barrow"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Garth McKay"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Fred Lane"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Adelphi",
+    "mark_str": "3:14.7",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.7",
+        "name": "Ray Lee"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.0",
+        "name": "Keith Davis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.3",
+        "name": "Denny Walker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.8",
+        "name": "Clyde McPherson"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Nebraska",
+    "mark_str": "3:15.9",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ruben Givens"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Wes Leonard"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Leighton Priestley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.7",
+        "name": "Garth Case"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Michigan State",
+    "mark_str": "3:16.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alwin Henderson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Marshall Dill"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Mike Murphy"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bob Cassleman"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Eastern Michigan",
+    "mark_str": "3:16.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ian Hall"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bill Cartwright"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Gary Collins"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.8",
+        "name": "Stan Vinson"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Indiana",
+    "mark_str": "3:17.7",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Doug Chokey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Glen Love"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Winslow Taylor"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "William Wallace"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Illinois",
+    "mark_str": "7:27.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.1",
+        "name": "Dave Kaemerer"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.7",
+        "name": "Ron Phillips"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.2",
+        "name": "Lee LaBadie"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:53.9",
+        "name": "Rob Mango"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "7:30.9",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Tom Gregan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Rick Kell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Bill McLoughlin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.9",
+        "name": "Ken Schappert"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "New Mexico",
+    "mark_str": "7:32.2",
+    "source_url": "https://www.newspapers.com/article/the-albuquerque-tribune-duke-city-lobos/194899697/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.6",
+        "name": "Matt Henry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:54.6",
+        "name": "Gary Easterly"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:54.7",
+        "name": "Bob Dooley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.8",
+        "name": "Reid Cole"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Nebraska",
+    "mark_str": "7:33.6",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Roger Chadwick"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Larry Cimato"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Dan Speck"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Jeff Wisemiller"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Manhattan",
+    "mark_str": "7:51.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "John Lovett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cliff Bruce"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "John Rothrock"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Joe Savage"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Bowling Green State",
+    "mark_str": "9:46.2",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:56.6",
+        "name": "Craig MacDonald"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "50.3",
+        "name": "Ted Farver"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:00.1",
+        "name": "Sid Sink"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.5",
+        "name": "Dave Wottle"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Kansas State",
+    "mark_str": "9:47.0",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Rick Hitchcock"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Clardy Vinson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jim Heggie"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:04.5",
+        "name": "Jerome Howe"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Villanova",
+    "mark_str": "9:48.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bob Carpenter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Hartnett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Karl Kinscherf"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:04.2",
+        "name": "Brian McElroy"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "9:51.8",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kevin Reilly"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Hallinan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Conrad Zink"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Joe Lucas"
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Pennsylvania",
+    "mark_str": "9:52.4",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Julio Piazza"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bruce Collins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Denis Fikes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Karl Thornton"
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Wisconsin",
+    "mark_str": "3:18.9",
+    "source_url": "https://www.newspapers.com/article/wisconsin-state-journal-manhattan-captur/194911503/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Tim Rappe"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Chuck Bolton"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Chuck Curtis"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.9",
+        "name": "Skip Kent"
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Tennessee",
+    "mark_str": "3:27.4",
+    "source_url": "https://digital.lib.utk.edu/collections/islandora/object/beacon%3A27697#page/3/mode/1up/search/%22Wilbur%20Hawkins%22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Wilbur Hawkins"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Darwin Bond"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Trevor James"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Nelson Walker"
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "St. John's",
+    "mark_str": "7:37.0",
+    "source_url": "https://www.newspapers.com/article/the-plain-dealer-wottle-tinker-are-easy/194914806/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "possible_name": "George Leidinger",
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "possible_name": "Billy Paul",
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "possible_name": "Darryl Reese",
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "possible_name": "Howard Skeggs",
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Temple",
+    "mark_str": "7:44.0",
+    "source_url": "https://www.newspapers.com/article/chicago-tribune-track-olympic-invitation/194918825/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "possible_name": "Gary Riley",
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "possible_name": "Dennis Donahue",
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "possible_name": "Johnny Murphy",
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "possible_name": "Nick Cordasco",
+        "name": null
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Bowling Green State",
+    "mark_str": "10:01.8",
+    "source_url": "https://www.newspapers.com/article/the-daily-sentinel-tribune-wottle-has-i/194919283/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.8",
+        "name": "Bruce Vermilyea"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "50.1",
+        "name": "Ted Farver"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:02.0",
+        "name": "Rich Schnittker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:15.8",
+        "name": "Craig MacDonald"
+      }
+    ]
+  },
+  {
+    "year": 1977,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Air Force",
+    "mark_str": "3:20.4",
+    "source_url": "https://www.newspapers.com/article/colorado-springs-gazette-telegraph-mile/194919972/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Russ Clemons"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bill Lee"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Don Walters"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.9",
+        "name": "Jeff Remington"
+      }
+    ]
+  },
+  {
+    "year": 1977,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Adelphi",
+    "mark_str": "7:42.6",
+    "source_url": "https://uascdigital.adelphi.edu/idviewer/19261/25",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bill Phillips"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jon Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Mike Serino"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:55.1",
+        "name": "Bill Dabney"
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Notre Dame",
+    "mark_str": "7:59.2",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Pete Burger"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tim Macauley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Chuck Aragon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Jay Miranda"
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "NC State",
+    "mark_str": "3:19.3",
+    "source_url": "https://d.lib.ncsu.edu/collections/catalog/technician-v60n70-1980-03-14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Relay member unknown"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Relay member unknown"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Relay member unknown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Relay member unknown"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Auburn",
+    "mark_str": "3:06.57",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.1",
+        "name": "Bruce Hardy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Steve Griffths"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kevin Henderson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Clifton Campbell"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida State",
+    "mark_str": "3:08.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Carter Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Vince Washington"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Clark Waddell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Thomas Johnson"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "TCU",
+    "mark_str": "3:11.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Steve Crumpton"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Keith Burnett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Michael Cannon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Tony Allen"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Georgetown",
+    "mark_str": "7:20.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Dennis Dee"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Phillip Franshaw"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Michael Huber"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Miles Irish"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Notre Dame",
+    "mark_str": "7:21.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "John McNelis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Robert Nobles"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jeff Van Wie"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Jim Tyler"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Pittsburgh",
+    "mark_str": "7:21.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bob Weiner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Joe Daniels"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tim Manes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dave Moore"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Auburn",
+    "mark_str": "7:24.59",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Mark Rabush"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Randy Hudson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Bob Sheehan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Curt Lindner"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Northwestern",
+    "mark_str": "7:33.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Mark Keller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Paul Santer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Chuck Croft"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bob Cull"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Arkansas",
+    "mark_str": "3:08.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.1",
+        "name": "John Register"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.5",
+        "name": "Mike Clemmons"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Lorenzo Brown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.2",
+        "name": "Roddie Haley"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Rice",
+    "mark_str": "3:08.54",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.2",
+        "name": "Patrick Gordon"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Robby Timmons"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.4",
+        "name": "Byron Justice"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.2",
+        "name": "Courtney Brown"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Florida",
+    "mark_str": "3:08.86",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Mark Everett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.4",
+        "name": "Nick Rahal"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.0",
+        "name": "Timmy Johnson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.5",
+        "name": "Dennis Mitchell"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Texas",
+    "mark_str": "3:08.90",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.7",
+        "name": "John Patterson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Quintus Hampton"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.0",
+        "name": "Laron Brown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.6",
+        "name": "Winthrop Graham"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Villanova",
+    "mark_str": "3:10.29",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.0",
+        "name": "Grant Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.4",
+        "name": "Marc Jones"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.0",
+        "name": "Edwin Modibedi"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.9",
+        "name": "Tony Valentine"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Indiana",
+    "mark_str": "7:19.96",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.6",
+        "name": "Jim White"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.1",
+        "name": "Deon Cameron"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.9",
+        "name": "Keith Allen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.4",
+        "name": "Mark Rodholm"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "7:20.21",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.3",
+        "name": "Miles Irish"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.3",
+        "name": "Robert Leonardo"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.5",
+        "name": "James Grelle"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.2",
+        "name": "Michael Huber"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Pittsburgh",
+    "mark_str": "7:20.43",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.9",
+        "name": "Bob Weiner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.7",
+        "name": "Joe Daniels"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:47.9",
+        "name": "Tim Manes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.0",
+        "name": "Dave Moore"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Nebraska",
+    "mark_str": "7:21.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jean Verster"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Robert Gonzales"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Regis Humphrey"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Terry Goods"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Penn State",
+    "mark_str": "7:21.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Steve Balkey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "David McMillan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Ray Levitre"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Chris Mills"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Michigan",
+    "mark_str": "7:22.40",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Matt Butler"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Earl Parris"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Rollie Hudson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Omar Davidson"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Virginia Tech",
+    "mark_str": "7:22.56",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jay Oustrich"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Brad Reed"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Ron Voigt"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Gary Cobb"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Illinois",
+    "mark_str": "3:09.66",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.9",
+        "name": "Rod Tolbert"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.7",
+        "name": "Lee Bridges"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.8",
+        "name": "Charleton Hamer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.3",
+        "name": "Tim Simon"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Auburn",
+    "mark_str": "3:10.76",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kelly Carter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Roddie Massey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Karim Saunders"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.4",
+        "name": "Clifton Campbell"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Alabama",
+    "mark_str": "3:12.44",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.7",
+        "name": "Jack Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.0",
+        "name": "Larry Cantrell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.1",
+        "name": "Pierre Goode"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.6",
+        "name": "Alfonzo Henson"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Texas",
+    "mark_str": "3:13.12",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.4",
+        "name": "Sean Kelly"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.4",
+        "name": "Ray Ramirez"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.6",
+        "name": "Quintus Hampton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.7",
+        "name": "Winthrop Graham"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Manhattan",
+    "mark_str": "3:13.89",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "possible_name": "Tony Loncke",
+        "name": null
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "possible_name": "Gil Harvey",
+        "name": null
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "possible_name": "Troy Simon",
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.0",
+        "name": "Bruce Phillip"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Baylor",
+    "mark_str": "7:26.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.9",
+        "name": "Terril Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:53.3",
+        "name": "Trent Sharp"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.6",
+        "name": "Victor Valen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.6",
+        "name": "Andy Anderson"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Indiana",
+    "mark_str": "7:31.64",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:00.0",
+        "name": "Doug Beggs"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.3",
+        "name": "Deon Cameron"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.4",
+        "name": "Jim White"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.5",
+        "name": "Keith Allen"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "7:32.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "James Grelle"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Robert Leonardo"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Darron Outler"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.1",
+        "name": "Patrick Mann"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "William & Mary",
+    "mark_str": "7:35.48",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Rob Campbell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Hiram Cuevas"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Dave Ryan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Paul Vandegrift"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Manhattan",
+    "mark_str": "7:38.57",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Vernon Richards"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Gil Harvey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "John McGrath"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Mike Remigino"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Arkansas",
+    "mark_str": "7:48.83",
+    "source_url": "https://www.newspapers.com/article/portland-press-herald-arkansas-chases-5t/194958808/;https://www.newspapers.com/article/the-daily-world-falcon-captures-3000-me/194958687/;https://www.newspapers.com/article/baxter-bulletin-hogs-track-team-hopes-t/194958905/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Don Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "John Holmes"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "possible_name": "Lorenzo Brown",
+        "name": null
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Wayne Moncrieffe"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Auburn",
+    "mark_str": "3:08.29",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.5",
+        "name": "Karim Saunders"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.6",
+        "name": "Alexander Wright"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.3",
+        "name": "Eric Crichlow"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.9",
+        "name": "Clifton Campbell"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Kansas State",
+    "mark_str": "3:09.89",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.9",
+        "name": "Sean Banks"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.5",
+        "name": "Corey King"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.0",
+        "name": "Tyrone Watkins"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.5",
+        "name": "Jeff Reynolds"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Manhattan",
+    "mark_str": "3:10.01",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alexander Strachan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Steve Neal"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Walter McCall"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bruce Phillip"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Oklahoma",
+    "mark_str": "3:10.13",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ray Carter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "James Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Steve Lambeth"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.9",
+        "name": "Milton Johns"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Nebraska",
+    "mark_str": "3:10.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.1",
+        "name": "Ken Waller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Mark Jackson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.1",
+        "name": "Diuedonne Kwizera"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.5",
+        "name": "Dale Burrage"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "George Mason",
+    "mark_str": "7:17.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.7",
+        "name": "Mike Anthony"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.1",
+        "name": "Paul Gambrah"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.8",
+        "name": "Ernest Barrett"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.2",
+        "name": "John Cook"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Villanova",
+    "mark_str": "7:19.90",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.1",
+        "name": "Bruce Harris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.1",
+        "name": "Mike Seeger"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.8",
+        "name": "Quentin Howe"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.9",
+        "name": "Paul Rowbotham"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "7:20.96",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.6",
+        "name": "Rich Kenah"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.7",
+        "name": "Robert Leonardo"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.4",
+        "name": "Steve Holma"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.4",
+        "name": "Ethan Frey"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Illinois",
+    "mark_str": "7:24.38",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:50.7",
+        "name": "Tim Clancy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.8",
+        "name": "Rich Kolasa"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.3",
+        "name": "Aaron Rogers"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.2",
+        "name": "Len Sitko"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Loyola-Chicago",
+    "mark_str": "7:30.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Andre Fomby"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bill Cull"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Marc Burns"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Eddie Slowikowski"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Pittsburgh",
+    "mark_str": "7:34.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "David Price"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tony Brookover"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tom Boggan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dave Moore"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "George Mason",
+    "mark_str": "3:08.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.2",
+        "name": "Shawn Vass"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.1",
+        "name": "John Myles-Mills"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.1",
+        "name": "Tim Hesse"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.0",
+        "name": "Patrick O'Connor"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Alabama",
+    "mark_str": "3:08.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.4",
+        "name": "Marcend Coney"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.2",
+        "name": "Greg Parker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.8",
+        "name": "Brad McCuaig"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.0",
+        "name": "Eduardo Nava"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Texas A&M",
+    "mark_str": "3:08.57",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.1",
+        "name": "Stanley Kerr"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Ray Griffith"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.0",
+        "name": "Richard Bucknor"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.3",
+        "name": "Howard Davis"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "East Carolina",
+    "mark_str": "3:08.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.1",
+        "name": "William Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.4",
+        "name": "Fred Owens"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.6",
+        "name": "Corey Brooks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.9",
+        "name": "Brian Irvin"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Florida",
+    "mark_str": "3:09.50",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.8",
+        "name": "Mark Everett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.5",
+        "name": "Earl Diamond"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Lewis Lacy"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.7",
+        "name": "Tyrone Kemp"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Arkansas",
+    "mark_str": "7:20.58",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.1",
+        "name": "Dan Gabor"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.6",
+        "name": "Eric Henry"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.7",
+        "name": "Gilbert Contreras"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.2",
+        "name": "Robert Bradley"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Clemson",
+    "mark_str": "7:20.65",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.5",
+        "name": "Philip Greyling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.2",
+        "name": "Dennis Hines"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.0",
+        "name": "Andrew Beecher"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.0",
+        "name": "Dave Wittman"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "7:20.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.9",
+        "name": "Michael McCracken"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.4",
+        "name": "Michael Jasper"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.6",
+        "name": "Steve Holman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.1",
+        "name": "Ethan Frey"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Dartmouth",
+    "mark_str": "7:22.27",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Norm Kennedy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dennis Webster"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Michael Brown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Jeff Gillooly"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Iona",
+    "mark_str": "7:26.12",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.0",
+        "name": "Wayne Menzie"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.8",
+        "name": "Parnell Pierre-Louis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.4",
+        "name": "Ken Torricella"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.9",
+        "name": "Norman McHugh"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Auburn",
+    "mark_str": "3:08.28",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.8",
+        "name": "Michael Anderson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.2",
+        "name": "Seymour Fagan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.2",
+        "name": "Eric Crichlow"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.4",
+        "name": "Sam Matete"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "East Carolina",
+    "mark_str": "3:09.24",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.8",
+        "name": "William Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Fred Owens"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.7",
+        "name": "Corey Brooks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.1",
+        "name": "Brian Irvin"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Louisiana State",
+    "mark_str": "3:09.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.3",
+        "name": "Earl Marcelle"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.1",
+        "name": "Derrick Thymes"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.8",
+        "name": "Jason Sanders"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.2",
+        "name": "Maurice Horton"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Arizona State",
+    "mark_str": "3:09.38",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.6",
+        "name": "Ed Lovelace"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.2",
+        "name": "Mike Sulcer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.2",
+        "name": "Robert Rucker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.4",
+        "name": "Thomas Koech"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Northern Arizona",
+    "mark_str": "3:09.87",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.9",
+        "name": "Will Glover"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.0",
+        "name": "J.W. Hardy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.1",
+        "name": "Rodney Belk"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.9",
+        "name": "Anthony Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Arkansas",
+    "mark_str": "7:20.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.6",
+        "name": "Gilbert Contreras"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.1",
+        "name": "Eric Henry"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.4",
+        "name": "Niall Burton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.1",
+        "name": "Graham Hood"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Villanova",
+    "mark_str": "7:20.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.9",
+        "name": "Aidan O'Regan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.0",
+        "name": "Finn Kelly"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.6",
+        "name": "Brad Sumner"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.0",
+        "name": "Mike Seeger"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Iowa State",
+    "mark_str": "7:23.12",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.9",
+        "name": "John Burris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.4",
+        "name": "Joseph Kiptanui"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.1",
+        "name": "James Hall"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.7",
+        "name": "Brett Carney"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Kansas",
+    "mark_str": "7:29.57",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.4",
+        "name": "Donnie Anderson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.5",
+        "name": "Jason Teal"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.7",
+        "name": "Dan Waters"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:54.0",
+        "name": "Stacey Smiedla"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Illinois",
+    "mark_str": "7:35.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.5",
+        "name": "Aaron Rodgers"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.7",
+        "name": "Brian Haas"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:53.0",
+        "name": "Jason West"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:54.3",
+        "name": "Len Sitko"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Louisiana State",
+    "mark_str": "3:06.45",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.9",
+        "name": "Chris King"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.3",
+        "name": "Earl Marcelle"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.9",
+        "name": "David Singoei"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.4",
+        "name": "Derrick Thymes"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgia Tech",
+    "mark_str": "3:07.15",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.6",
+        "name": "Octavius Terry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.5",
+        "name": "Conrad Nichols"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.1",
+        "name": "Derrick Adkins"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.0",
+        "name": "Derek Mills"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:08.94",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.4",
+        "name": "Marcel Carter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.8",
+        "name": "Daryl Frazier"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.0",
+        "name": "Tyrone Kemp"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.7",
+        "name": "Lawrence Forbes"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Nebraska",
+    "mark_str": "3:09.42",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Travis Grant"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.1",
+        "name": "Ken Waller"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.0",
+        "name": "Pat Trainor"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.9",
+        "name": "Mark Jackson"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Northern Arizona",
+    "mark_str": "3:10.69",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.9",
+        "name": "Will Glover"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.9",
+        "name": "Leon Thomas"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "45.9",
+        "name": "Anthony Wilson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.0",
+        "name": "Brian Martinez"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Georgetown",
+    "mark_str": "7:20.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.6",
+        "name": "Dan Sexton"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:48.6",
+        "name": "Paul Whittaker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.0",
+        "name": "Rich Kenah"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.8",
+        "name": "Steve Holman"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Arkansas",
+    "mark_str": "7:20.75",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:50.9",
+        "name": "Gilbert Contreras"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.9",
+        "name": "Graham Hood"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.5",
+        "name": "Marlon Boykins"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.5",
+        "name": "Dan Gabor"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Dartmouth",
+    "mark_str": "7:20.82",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:49.1",
+        "name": "Ben Gose"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:52.7",
+        "name": "Jon Fidelak"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.2",
+        "name": "Dennis Webster"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.8",
+        "name": "Michael Hughes"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Michigan State",
+    "mark_str": "7:21.10",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.4",
+        "name": "Rick Gledhill"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.6",
+        "name": "Chris Rugh"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.8",
+        "name": "Todd Koning"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.3",
+        "name": "Chris Brown"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Seton Hall",
+    "mark_str": "7:23.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.4",
+        "name": "Ernesto Perez"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.2",
+        "name": "Robert Ayres"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.1",
+        "name": "Gordon Dickenson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.5",
+        "name": "Mike Daniels"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Ohio State",
+    "mark_str": "3:06.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.6",
+        "name": "Rich Jones"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.3",
+        "name": "Aaron Payne"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.8",
+        "name": "Jordan Gray"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.2",
+        "name": "Chris Nelloms"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Texas A&M",
+    "mark_str": "3:07.08",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.1",
+        "name": "Stacy Zamzow"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Kiley Anglin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.7",
+        "name": "Tim Bryant"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.0",
+        "name": "Danny McCray"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Arkansas",
+    "mark_str": "3:07.76",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.8",
+        "name": "Vincent Henderson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.3",
+        "name": "Chris Phillips"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.4",
+        "name": "Jimmy French"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.2",
+        "name": "Calvin Davis"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Alabama",
+    "mark_str": "3:08.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Henry Hagan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.7",
+        "name": "Omokaro Alohan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.1",
+        "name": "Warren Simmons"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.8",
+        "name": "Solomon Amegatcher"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Florida",
+    "mark_str": "7:19.95",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.4",
+        "name": "Dedric Jones"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.0",
+        "name": "Lewis Lacy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.8",
+        "name": "Stephen Adderley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:46.7",
+        "name": "Scott Peters"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "George Mason",
+    "mark_str": "7:23.25",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.2",
+        "name": "Marsha Tomlinson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:49.8",
+        "name": "Alex Morgan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.1",
+        "name": "Mario Vernon-Watson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:48.1",
+        "name": "Simon Bowen"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "7:25.89",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alton McKenzie"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Mike Schroer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Seth Wetzel"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Bryan Woodward"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Seton Hall",
+    "mark_str": "7:25.91",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:55.5",
+        "name": "Robert Ayres"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:50.6",
+        "name": "Albert Royster"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.2",
+        "name": "Gordon Dickenson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:49.6",
+        "name": "Mike Daniels"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Villanova",
+    "mark_str": "7:26.50",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:54.1",
+        "name": "Mike Going"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "1:51.9",
+        "name": "Ken Nason"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.4",
+        "name": "Scott Whiteman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:50.1",
+        "name": "Brad Sumner"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgia Tech",
+    "mark_str": "3:07.13",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.7",
+        "name": "Octavius Terry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.0",
+        "name": "Jonas Motiejunas"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.1",
+        "name": "Conrad Nichols"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.3",
+        "name": "Derek Mills"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Texas",
+    "mark_str": "3:07.51",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.2",
+        "name": "Dominic French"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.0",
+        "name": "Shane Pratt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.5",
+        "name": "Beau Lane"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.8",
+        "name": "LaSalle Vaughn"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Tennessee",
+    "mark_str": "3:07.54",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.7",
+        "name": "Shane Lacy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Shane Begnaud"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.2",
+        "name": "Marwin Kline"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.7",
+        "name": "Jose Parrilla"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "George Mason",
+    "mark_str": "3:08.33",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.1",
+        "name": "Barrington Campbell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Lewis Sales"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.6",
+        "name": "Alex Morgan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.7",
+        "name": "Chris Abrahams"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Clemson",
+    "mark_str": "3:08.98",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.2",
+        "name": "Mitchel Francis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.5",
+        "name": "Kendrick Roach"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.8",
+        "name": "Enayat Oliver"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.5",
+        "name": "Clarence Richards"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Nebraska",
+    "mark_str": "3:09.05",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.7",
+        "name": "Pat Trainor"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.7",
+        "name": "Rod Marshall"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.4",
+        "name": "Marlon Jones"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.3",
+        "name": "Mark Graham"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Seton Hall",
+    "mark_str": "9:38.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.3",
+        "name": "Mike Daniels"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.0",
+        "name": "Kevin Lyles"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.0",
+        "name": "Clinton Bell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:06.3",
+        "name": "Bryan Spoonrie"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Michigan",
+    "mark_str": "9:41.15",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.5",
+        "name": "Nick Karfonta"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.7",
+        "name": "Trinity Townsend"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:55.3",
+        "name": "Scott MacDonald"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:04.7",
+        "name": "Kevin Sullivan"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Princeton",
+    "mark_str": "9:42.51",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.6",
+        "name": "Alex Hastings"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Andy Collins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:57.7",
+        "name": "Chris Lear"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.1",
+        "name": "Scott Anderson"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Georgetown",
+    "mark_str": "9:43.06",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.7",
+        "name": "Bryan Woodward"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Mike Schroer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:56.8",
+        "name": "Dan Sexton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:06.0",
+        "name": "Seth Wetzel"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Penn State",
+    "mark_str": "9:43.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.2",
+        "name": "R.B. Caldwell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.8",
+        "name": "James Robbins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.1",
+        "name": "Phil Mellott"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.6",
+        "name": "Bob Hamer"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Eastern Michigan",
+    "mark_str": "9:45.79",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.2",
+        "name": "Tommy Asinga"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.7",
+        "name": "Carl Lowe"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:56.9",
+        "name": "Jason Boothroyd"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:09.0",
+        "name": "Paul McMullen"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Colorado",
+    "mark_str": "9:49.71",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jason Drake"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Bryant Amador"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Brett Larsen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Shawn Found"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "George Mason",
+    "mark_str": "3:06.42",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.1",
+        "name": "Paul Henry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.6",
+        "name": "Chris Abrahams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "45.6",
+        "name": "Greg Haughton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.1",
+        "name": "Lewis Sales"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Louisiana State",
+    "mark_str": "3:06.43",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.4",
+        "name": "Regan Nichols"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.0",
+        "name": "Eddie Kennison"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.3",
+        "name": "Milton Mallard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.7",
+        "name": "Rohsaan Griffin"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Clemson",
+    "mark_str": "3:07.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.2",
+        "name": "Mitchel Francis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.5",
+        "name": "Clarence Richards"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.6",
+        "name": "Davidson Gill"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.0",
+        "name": "Tony Wheeler"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Oklahoma",
+    "mark_str": "3:07.96",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.7",
+        "name": "Shanon Atkinson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.7",
+        "name": "Ryan Kite"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.7",
+        "name": "Justin Chapman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.9",
+        "name": "Danny McFarlane"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Kentucky",
+    "mark_str": "3:08.52",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.0",
+        "name": "Demarcus Lindsey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.3",
+        "name": "D'Andre Jenkins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.7",
+        "name": "Darryl Gaines"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.5",
+        "name": "Ronnie Williams"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Seton Hall",
+    "mark_str": "3:08.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.1",
+        "name": "Kevin Hampson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.4",
+        "name": "Brandon Gant"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.8",
+        "name": "Kevin Lyles"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.6",
+        "name": "Albert Royster"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Eastern Michigan",
+    "mark_str": "9:35.57",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.1",
+        "name": "Jeff Beyst"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.8",
+        "name": "Kerch Patterson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:54.3",
+        "name": "Jason Boothroyd"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:59.4",
+        "name": "Paul McMullen"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Illinois",
+    "mark_str": "9:36.33",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.8",
+        "name": "Eric Henson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.4",
+        "name": "Ben Beyers"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:57.3",
+        "name": "Chris Saunders"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:59.8",
+        "name": "Marko Koers"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Villanova",
+    "mark_str": "9:36.95",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.6",
+        "name": "Kevin Christiani"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.3",
+        "name": "Chuck Silvester"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:57.4",
+        "name": "Ken Nason"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:00.7",
+        "name": "Louie Quintana"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "George Mason",
+    "mark_str": "9:37.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:50.1",
+        "name": "Alex Morgan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Louis McDonald"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.5",
+        "name": "Mario Vernon-Watson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.0",
+        "name": "Ibrahim Aden"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Arkansas",
+    "mark_str": "9:37.31",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.2",
+        "name": "Brandon Rock"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Curtis McIntyre"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:58.0",
+        "name": "Chris Wilson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:00.9",
+        "name": "Ryan Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Georgetown",
+    "mark_str": "9:41.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:53.7",
+        "name": "Seth Wetzel"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.0",
+        "name": "Mike Schroer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:57.0",
+        "name": "Eric O'Brien"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.3",
+        "name": "Mark Sivieri"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Florida",
+    "mark_str": "9:45.17",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:52.7",
+        "name": "Jeremy Stallings"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.1",
+        "name": "Lamar Fowler"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:56.5",
+        "name": "Donnell Johnson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:08.9",
+        "name": "Andrzej Jakubiec"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Kentucky",
+    "mark_str": "3:07.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.5",
+        "name": "Mark Miller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Chris Martin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.5",
+        "name": "Ronnie Williams"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.3",
+        "name": "Arnold Payne"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Texas A&M",
+    "mark_str": "3:08.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ricky Pfister"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Curt Young"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Mike McKinney"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Danny McCray"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "George Mason",
+    "mark_str": "3:08.36",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.6",
+        "name": "Paul Henry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Ian Weakly"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Barry Douglas"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.4",
+        "name": "Greg Haughton"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rice",
+    "mark_str": "3:08.79",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Andrew Burrow"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Derrick Small"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Quinton Milner"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Brian Klein"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Louisiana State",
+    "mark_str": "3:09.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Regan Nichols"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Eddie Kennison"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Byron Logan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Rohsaan Griffin"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Ohio State",
+    "mark_str": "3:09.86",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Clive Brooks"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Adam Herndon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Marlon DeLeon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Nakie Fenner"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Michigan",
+    "mark_str": "9:32.28",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "1:51.6",
+        "name": "Trinity Townsend"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.9",
+        "name": "Jeff Wood"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:55.4",
+        "name": "Scott MacDonald"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:57.3",
+        "name": "Kevin Sullivan"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Eastern Michigan",
+    "mark_str": "9:38.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kealoha Stokes"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Kerch Patterson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jason Boothroyd"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Ben Reese"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Illinois",
+    "mark_str": "9:41.25",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bobby True"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Matt Klima"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Cortney Lamb"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Barry Pearman"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Wisconsin",
+    "mark_str": "9:43.22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Todd Agger"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Carlton Clark"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jason Casiano"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Mark Hauser"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Florida",
+    "mark_str": "9:43.67",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jeremy Stallings"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jimmie Hackley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Andrzej Jakubiec"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Donnell Johnson"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Tennessee",
+    "mark_str": "9:44.39",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Junior Sloan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Shane Begnaud"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Mike Moran"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Nate Westin"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Arkansas",
+    "mark_str": "9:52.43",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Seneca Lassiter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Maketha Bridges"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jerry Price"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Godgrey Siamusiye"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Kentucky",
+    "mark_str": "3:08.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.2",
+        "name": "Mark Miller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.4",
+        "name": "Chris Martin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.7",
+        "name": "Dwight Phillips"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.2",
+        "name": "Darryl Gaines"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:08.54",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Jimmie Hackley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.4",
+        "name": "Chris Postinger"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.8",
+        "name": "Gerald Clervil"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.9",
+        "name": "Erin Tucker"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Houston",
+    "mark_str": "3:08.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.4",
+        "name": "Darius Pemberton"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Chris Jones"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Karim Alston"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.0",
+        "name": "Dennis Darling"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgia Tech",
+    "mark_str": "3:08.99",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.0",
+        "name": "Tomas Motiejunas"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Michael Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.3",
+        "name": "David Krummenacker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.6",
+        "name": "Angelo Taylor"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Ohio State",
+    "mark_str": "3:09.45",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.4",
+        "name": "Nakia Fenner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Adam Herndon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.3",
+        "name": "Sekou Smith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.1",
+        "name": "Eswort Coombs"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Seton Hall",
+    "mark_str": "3:19.33",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "51.9",
+        "name": "Garfield Ellenwood"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "50.0",
+        "name": "Shane Pratt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "49.2",
+        "name": "Erich Davis"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "48.2",
+        "name": "Thomas Evans"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Washington State",
+    "mark_str": "9:34.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.9",
+        "name": "Eric Kamau"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Guillermo Macias"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.6",
+        "name": "Rasto Kiplangat"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:59.4",
+        "name": "Bernard Lagat"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "9:35.83",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:58.1",
+        "name": "Sam Gabremarian"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Matt Kalwinsky"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.2",
+        "name": "Jaron Ming"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:01.6",
+        "name": "John Jordan"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Michigan",
+    "mark_str": "9:36.05",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:56.4",
+        "name": "Scott MacDonald"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.0",
+        "name": "Dwayne Fuqua"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.6",
+        "name": "Jay Cantin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.0",
+        "name": "Donald McLaughlin"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Illinois",
+    "mark_str": "9:36.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.4",
+        "name": "Barry Pearman"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Dorian Green"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.3",
+        "name": "Bobby True"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.7",
+        "name": "Cortney Lamb"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Arkansas",
+    "mark_str": "9:41.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:01.9",
+        "name": "Phillip Price"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.0",
+        "name": "Jonathan Leon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.8",
+        "name": "Seneca Lassiter"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.6",
+        "name": "Michael Power"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Eastern Michigan",
+    "mark_str": "9:45.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:58.5",
+        "name": "Mike Franko"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.8",
+        "name": "Fabian Rollins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.5",
+        "name": "Derrick Jackson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:08.5",
+        "name": "Ben Reese"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Notre Dame",
+    "mark_str": "9:45.67",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:59.5",
+        "name": "Derek Seiling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Danny Payton"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.9",
+        "name": "Jeff Hojnacki"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:09.2",
+        "name": "Jason Rexing"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Illinois",
+    "mark_str": "3:08.75",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Chris Jones"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.8",
+        "name": "Sherman Armstrong"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Tyrone Jones"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.0",
+        "name": "Matt Klima"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Clemson",
+    "mark_str": "3:09.00",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Charles Allen"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Davidson Gill"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Aaron Haynes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Kenny Franklin"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:09.07",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.5",
+        "name": "Jimmie Hackley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.6",
+        "name": "Gerald Clervil"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.9",
+        "name": "Adrain Mann"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.1",
+        "name": "Erin Tucker"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Oklahoma",
+    "mark_str": "3:09.69",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.6",
+        "name": "Edward Clarke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.2",
+        "name": "Michael Jackson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.3",
+        "name": "Kevin James"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.6",
+        "name": "Omar Brown"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Iowa",
+    "mark_str": "3:10.01",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.2",
+        "name": "Tony Branch"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.5",
+        "name": "Chris Davis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.5",
+        "name": "Ed Rozell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.8",
+        "name": "Bashir Yamini"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Georgia Tech",
+    "mark_str": "3:10.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.4",
+        "name": "Jonas Motiejunas"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.7",
+        "name": "David Krummenacker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "49.5",
+        "name": "Tomas Motiejunas"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.8",
+        "name": "Angelo Taylor"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Washington",
+    "mark_str": "3:10.60",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.2",
+        "name": "Ja'Warren Hooker"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.0",
+        "name": "B.J. Dawson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.7",
+        "name": "Scott Anabel"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.7",
+        "name": "Derek Prior"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Arkansas",
+    "mark_str": "9:30.45",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:54.6",
+        "name": "Michael Power"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.8",
+        "name": "Ryan Stanley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.3",
+        "name": "Jeremy Huffman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:58.8",
+        "name": "Seneca Lassiter"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Michigan",
+    "mark_str": "9:36.84",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:55.2",
+        "name": "Jay Cantin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.9",
+        "name": "Dwayne Fuqua"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.6",
+        "name": "Don McLaughlin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.1",
+        "name": "Kevin Sullivan"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Stanford",
+    "mark_str": "9:38.19",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:54.5",
+        "name": "Gabe Jennings"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.5",
+        "name": "Jeff Allen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.7",
+        "name": "Jake Maas"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.5",
+        "name": "Michael Stember"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Brown",
+    "mark_str": "9:39.44",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jamey Vetelino"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jaimie Mantzel"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Trinity Gray"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Neville Davey"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "9:40.03",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:54.8",
+        "name": "Isidro Pimentel"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.0",
+        "name": "Nick Reynolds"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.7",
+        "name": "Matt Kalwinsky"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:05.5",
+        "name": "Kevin Jermyn"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "UCLA",
+    "mark_str": "9:42.23",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:56.6",
+        "name": "Mark Hauser"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.0",
+        "name": "Jim McElroy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.8",
+        "name": "Jess Strutzel"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:04.8",
+        "name": "Meb Keflezighi"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "James Madison",
+    "mark_str": "9:43.54",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jason Long"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Paul Lewis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Curtis Lassiter"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Russ Coleman"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Oklahoma",
+    "mark_str": "3:08.44",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.2",
+        "name": "Moses Washington"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.8",
+        "name": "Omar Brown"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.3",
+        "name": "Kevin James"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.1",
+        "name": "Michael Blackwood"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Mississippi",
+    "mark_str": "3:10.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Wayne Woollery"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Savante' Stringfellow"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jimmy Love"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Alonzo Banks"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Arizona State",
+    "mark_str": "3:10.42",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.9",
+        "name": "LaVell Robinson-Blanchard"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.3",
+        "name": "Dwight Phillips"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "49.2",
+        "name": "Vondre Armour"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.0",
+        "name": "Tony Berrian"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Idaho",
+    "mark_str": "3:10.75",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.5",
+        "name": "Curtis Kunkel"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.6",
+        "name": "Kunle Adejuyigbe"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "49.4",
+        "name": "Martijn Ungerer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.3",
+        "name": "Tawanda Chiwira"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Colorado",
+    "mark_str": "3:10.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.8",
+        "name": "Jason Horton"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.1",
+        "name": "Ben Kelly"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.3",
+        "name": "Matt Queen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.6",
+        "name": "James Davis"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Auburn",
+    "mark_str": "3:11.01",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.0",
+        "name": "Julius Edwards"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.4",
+        "name": "Tim Green"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "49.2",
+        "name": "Coby Miller"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.4",
+        "name": "Edmond Nartey"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Norfolk State",
+    "mark_str": "3:11.07",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.5",
+        "name": "Caffield Samuels"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.3",
+        "name": "Donovan Housen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.7",
+        "name": "Joel Mascoll"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.6",
+        "name": "Christopher Brown"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Texas Tech",
+    "mark_str": "3:15.23",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Desmond Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Rohan McDonald"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Shameron Turner"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Josephus Howard"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Alabama",
+    "mark_str": "3:16.10",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "49.4",
+        "name": "Jeremy Taylor"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.2",
+        "name": "Javon Dixon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.8",
+        "name": "Randy Farr"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "49.7",
+        "name": "Cori Loving"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Illinois State",
+    "mark_str": "9:33.52",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Christian Goy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dan Schrock"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Klint Wescom"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:58.7",
+        "name": "Julius Mwangi"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Arkansas",
+    "mark_str": "9:35.13",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.3",
+        "name": "Murray Link"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.9",
+        "name": "Ryan Stanley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:48.0",
+        "name": "James Karanu"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.9",
+        "name": "Sharif Karie"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Alabama",
+    "mark_str": "9:35.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "John Williamson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cori Loving"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Dereik Edwards"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Tim Broe"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Stanford",
+    "mark_str": "9:36.99",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:53.67",
+        "name": "Michael Stember"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.3",
+        "name": "Jeff Allen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:51.6",
+        "name": "Mark Hassell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.4",
+        "name": "Jonathon Riley"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "9:37.84",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:55.7",
+        "name": "Isidro Pimentel"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.8",
+        "name": "Jeff Reinhardt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:52.1",
+        "name": "Ky Adderley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.2",
+        "name": "Sam Gabremarian"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "James Madison",
+    "mark_str": "9:38.13",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jason Long"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Paul Lewis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Robert Montgomery"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Russ Coleman"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Oklahoma State",
+    "mark_str": "9:44.25",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Brian Young"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cameron Katchuck"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Andrew Hennessy"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Chuck Sloan"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Drake",
+    "mark_str": "9:47.19",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Troy Trygstad"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jesse Sand"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Corey Swan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Matt Gabrielson"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Tulsa",
+    "mark_str": "9:47.39",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "David Bohlen"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Clint Small"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Shawn McCullough"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Dwight Davis"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Oregon",
+    "mark_str": "9:50.31",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Laird Prosser"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Nat Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Richard Girvan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Greg James"
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "TCU",
+    "mark_str": "3:04.87",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.2",
+        "name": "Brandon Simpson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.8",
+        "name": "Jackson Langat"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.4",
+        "name": "Jabari Fields"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.5",
+        "name": "Jerry Harris"
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "TCU",
+    "mark_str": "3:08.82",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.5",
+        "name": "Lewis Banda"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.5",
+        "name": "Otis McDaniel"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "48.0",
+        "name": "Quincy Butler"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.5",
+        "name": "Jackson Langat"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Indiana",
+    "mark_str": "9:39.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.86",
+        "name": "De'Sean Turner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.45",
+        "name": "Kind Butler"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.90",
+        "name": "Daniel Stockberger"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:03.16",
+        "name": "Andrew Bayer"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Indiana",
+    "mark_str": "9:29.65",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:58.58",
+        "name": "Daniel Stockberger"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.77",
+        "name": "Chris Vaughn"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.01",
+        "name": "Joseph Holahan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:53.29",
+        "name": "Andrew Bayer"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Stanford",
+    "mark_str": "9:35.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.64",
+        "name": "Andrew Berberick"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.28",
+        "name": "Amaechi Morton"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.34",
+        "name": "Dylan Ferris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:00.76",
+        "name": "John Sullivan"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Indiana",
+    "mark_str": "9:35.67",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:59.99",
+        "name": "De'Sean Turner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.62",
+        "name": "Chris Vaughn"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.70",
+        "name": "Daniel Stockberger"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:58.86",
+        "name": "Andy Bayer"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Indiana",
+    "mark_str": "9:34.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:57.02",
+        "name": "Rorey Hunter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.03",
+        "name": "Nathan Pierre Louis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.41",
+        "name": "Lance Roller"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "3:58.86",
+        "name": "Andy Bayer"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "school": "Southern California",
+    "mark_str": "3:00.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.24",
+        "name": "Zach Shinnick"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "44.35",
+        "name": "Rai Benjamin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "45.66",
+        "name": "Ricky Morgan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "44.52",
+        "name": "Michael Norman"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Arkansas",
+    "mark_str": "3:05.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.40",
+        "name": "Roy Ejiakuekwu"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "45.83",
+        "name": "Kemar Mowatt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.45",
+        "name": "Jamarco Stephen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.16",
+        "name": "Obi Igbokwe"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Auburn",
+    "mark_str": "3:05.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.85",
+        "name": "Randall Ceneus"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.31",
+        "name": "Josh Burks"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "45.00",
+        "name": "Nathon Allen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.14",
+        "name": "Akeen Bloomfield"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Louisiana State",
+    "mark_str": "3:05.31",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.92",
+        "name": "Correion Mosby"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "45.58",
+        "name": "Jaron Flournoy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.09",
+        "name": "Renard Howell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.72",
+        "name": "Jahnoy Thompson"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 7,
+    "school": "TCU",
+    "mark_str": "3:05.60",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.92",
+        "name": "Emmanuel Ogwo"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "45.44",
+        "name": "Jostyn Andrews"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.22",
+        "name": "Kevin McClanahan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.02",
+        "name": "Derrick Mokaleng"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Ohio State",
+    "mark_str": "3:05.95",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.07",
+        "name": "Asa Burke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "45.72",
+        "name": "Nick Gray"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.50",
+        "name": "Drelan Bramwell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "45.66",
+        "name": "Andre Jeff"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Iowa",
+    "mark_str": "3:06.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "47.63",
+        "name": "Collin Hofacker"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.07",
+        "name": "DeJuan Frye"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "45.60",
+        "name": "Mar'yea Harris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.04",
+        "name": "Bradford Garron"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Tennessee",
+    "mark_str": "3:07.88",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.25",
+        "name": "Kwantreyl McConico"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.51",
+        "name": "Mustaqeem Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "47.53",
+        "name": "Darryl Harris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "44.59",
+        "name": "Nathan Strother"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Kansas",
+    "mark_str": "3:07.98",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.17",
+        "name": "Ivan Henry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.69",
+        "name": "Isaiah Cole"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.47",
+        "name": "Jaron Hartley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.68",
+        "name": "Tre Daniels"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Minnesota",
+    "mark_str": "3:08.20",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "48.08",
+        "name": "Jonathan Webb"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.25",
+        "name": "Ben Psicihulis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.57",
+        "name": "Matthew Baker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "46.32",
+        "name": "Jack Wellenstein"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 13,
+    "school": "Houston",
+    "mark_str": "3:08.86",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "46.99",
+        "name": "Amere Lattin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "47.73",
+        "name": "Elijah Hall"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "46.71",
+        "name": "Kahmari Montgomery"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "47.44",
+        "name": "Mario Burke"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Brown",
+    "mark_str": "9:40.24",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:59.14",
+        "name": "Zachary Lanigan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.66",
+        "name": "Oluwatosin Oyewole"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.99",
+        "name": "Zachery Emrich"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.45",
+        "name": "Martin Martinez"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Mississippi",
+    "mark_str": "9:41.75",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:58.59",
+        "name": "Waleed Suliman"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "49.72",
+        "name": "Alvin Westbrook"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:50.70",
+        "name": "Sean Tobin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:02.74",
+        "name": "Robert Domanic"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Georgetown",
+    "mark_str": "9:51.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:00.06",
+        "name": "Amos Bartelsmeyer"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "48.74",
+        "name": "Kenneth Rowe"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:52.81",
+        "name": "Rey Rivera"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:10.36",
+        "name": "Spencer Brown"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 12,
+    "school": "New Mexico",
+    "mark_str": "9:55.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:58.18",
+        "name": "Ian Crowe-Wright"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "46.70",
+        "name": "Carlos Salcido"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "1:49.93",
+        "name": "Michael Wilson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:20.30",
+        "name": "Josh Kerr"
+      }
+    ]
+  }
+]

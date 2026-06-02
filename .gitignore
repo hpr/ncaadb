@@ -1,0 +1,8 @@
+*.db
+*.pdf
+__pycache__/
+html/*.html
+flashresults/
+data/bak/
+wiki/category_cache.json
+

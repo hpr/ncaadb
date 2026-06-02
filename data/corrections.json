@@ -1,0 +1,1800 @@
+[
+  {
+    "year": 1925,
+    "school": "Iowa",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Harold Phelps",
+    "place": 2,
+    "corrections": {
+      "mark_str": "9:33.9",
+      "mark_num": 573.9
+    },
+    "notes": "PDF has 9:23.9, should be 9:33.9; mark_num was also wrong (563.9)"
+  },
+  {
+    "year": 1925,
+    "school": "Northwestern",
+    "discipline": "High Jump",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Sam Campbell",
+    "corrections": {
+      "name": "William B. Campbell"
+    },
+    "notes": "PDF has wrong name"
+  },
+  {
+    "year": 1958,
+    "name": "Ray Klicker",
+    "school": "Whitman",
+    "discipline": "110m Hurdles",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 7,
+    "corrections": {
+      "name": "Dave Klicker"
+    },
+    "notes": "Ray Klicker should be Dave Klicker"
+  },
+  {
+    "year": 1958,
+    "name": "Ray Klicker",
+    "school": "Whitworth",
+    "discipline": "220y Hurdles",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 5,
+    "corrections": {
+      "name": "Dave Klicker",
+      "school": "Whitman"
+    },
+    "notes": "Ray Klicker at Whitworth should be Dave Klicker at Whitman"
+  },
+  {
+    "year": 1965,
+    "school": "Northwestern",
+    "discipline": "Shot Put",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Carl Wallin",
+    "corrections": {
+      "school": "Northeastern"
+    },
+    "notes": "Northwestern should be Northeastern"
+  },
+  {
+    "year": 1967,
+    "school": "St. John's",
+    "discipline": "Shot Put",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Martin Eisner",
+    "place": 4,
+    "corrections": {
+      "school": "Kent State"
+    },
+    "notes": "St. John's should be Kent State"
+  },
+  {
+    "year": 1968,
+    "school": "Drake",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Chuck Hobbs",
+    "corrections": {
+      "name": "John Pollock",
+      "source_url": "https://www.newspapers.com/article/the-des-moines-register-lindgren-vs-ryu/195798009/"
+    },
+    "notes": "Drake relay members were Yale's; correct Drake team from newspaper"
+  },
+  {
+    "year": 1968,
+    "school": "Drake",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Larry Kreider",
+    "corrections": {
+      "name": "Brent Slay",
+      "source_url": "https://www.newspapers.com/article/the-des-moines-register-lindgren-vs-ryu/195798009/"
+    },
+    "notes": "Drake relay members were Yale's; correct Drake team from newspaper"
+  },
+  {
+    "year": 1968,
+    "school": "Drake",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Mark Young",
+    "corrections": {
+      "name": "Mike Jackson",
+      "source_url": "https://www.newspapers.com/article/the-des-moines-register-lindgren-vs-ryu/195798009/"
+    },
+    "notes": "Drake relay members were Yale's; correct Drake team from newspaper"
+  },
+  {
+    "year": 1968,
+    "school": "Drake",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Steve Bittner",
+    "corrections": {
+      "name": "Ray Dunn",
+      "source_url": "https://www.newspapers.com/article/the-des-moines-register-lindgren-vs-ryu/195798009/"
+    },
+    "notes": "Drake relay members were Yale's; correct Drake team from newspaper"
+  },
+  {
+    "year": 1968,
+    "school": "Harvard",
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Edward Ajootian",
+    "corrections": {
+      "name": "Charles Ajootian"
+    },
+    "notes": "Edward should be Charles"
+  },
+  {
+    "year": 1969,
+    "school": "Tennessee",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 1,
+    "corrections": {
+      "mark_str": "3:14.6",
+      "mark_num": 194.6
+    },
+    "notes": "4x440yd time erroneously converted; correct time is 3:14.6"
+  },
+  {
+    "year": 1969,
+    "school": "Catholic (D.C.)",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 3,
+    "corrections": {
+      "mark_str": "3:17.2",
+      "mark_num": 197.2
+    },
+    "notes": "Missing mark from source"
+  },
+  {
+    "year": 1969,
+    "school": "Villanova",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 4,
+    "corrections": {
+      "mark_str": "3:17.5",
+      "mark_num": 197.5
+    },
+    "notes": "Missing mark from source"
+  },
+  {
+    "year": 1971,
+    "school": "Northwestern",
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Tom Sirois",
+    "place": 3,
+    "corrections": {
+      "school": "Northeastern"
+    },
+    "notes": "Northwestern should be Northeastern"
+  },
+  {
+    "year": 1972,
+    "school": "Southern California",
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Frank Bredice",
+    "corrections": {
+      "school": "Southern Connecticut"
+    },
+    "notes": "Southern California should be Southern Connecticut"
+  },
+  {
+    "year": 1975,
+    "school": "Washington",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Joshua Kimeto",
+    "corrections": {
+      "school": "Washington State"
+    },
+    "notes": "Washington should be Washington State"
+  },
+  {
+    "year": 1976,
+    "school": "Washington",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Joshua Kimeto",
+    "corrections": {
+      "school": "Washington State"
+    },
+    "notes": "Washington should be Washington State"
+  },
+  {
+    "year": 1976,
+    "school": "Nebraska",
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Dave Burkhart",
+    "corrections": {
+      "name": "Matt Reckmeyer",
+      "split_time": "3:01.7"
+    },
+    "notes": "Nebraska DMR members were Eastern Michigan's"
+  },
+  {
+    "year": 1976,
+    "school": "Nebraska",
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jeff Dils",
+    "corrections": {
+      "name": "Ray Mahoney",
+      "split_time": "48.8"
+    },
+    "notes": "Nebraska DMR members were Eastern Michigan's"
+  },
+  {
+    "year": 1976,
+    "school": "Nebraska",
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jim Deren",
+    "corrections": {
+      "name": "Harold Stelzer",
+      "split_time": "4:08.9"
+    },
+    "notes": "Nebraska DMR members were Eastern Michigan's"
+  },
+  {
+    "year": 1976,
+    "school": "Nebraska",
+    "discipline": "DMR",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Mike Arnold",
+    "corrections": {
+      "name": "Ron Fisher",
+      "split_time": "1:56.0"
+    },
+    "notes": "Nebraska DMR members were Eastern Michigan's"
+  },
+  {
+    "year": 1977,
+    "school": "Washington",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Joshua Kimeto",
+    "corrections": {
+      "school": "Washington State"
+    },
+    "notes": "Washington should be Washington State"
+  },
+  {
+    "year": 1977,
+    "school": "Kentucky State",
+    "discipline": "400m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Randy Williams",
+    "place": 7,
+    "corrections": {
+      "name": "Randolph Williams"
+    },
+    "notes": "Randy should be Randolph"
+  },
+  {
+    "year": 1977,
+    "school": "Arkansas",
+    "discipline": "Pole Vault",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Earl Bell",
+    "corrections": {
+      "school": "Arkansas State"
+    },
+    "notes": "Arkansas should be Arkansas State"
+  },
+  {
+    "year": 1978,
+    "school": "BYU",
+    "discipline": "5000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Rodolfo Gomez",
+    "place": 7,
+    "corrections": {
+      "school": "UTEP"
+    }
+  },
+  {
+    "year": 1979,
+    "school": "Harvard",
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Allen Peffer",
+    "leg_idx": 3,
+    "place": 3,
+    "corrections": {
+      "name": "Brad McNulty",
+      "split_time": "1:54.6"
+    },
+    "notes": "Wrong relay members for Harvard place 3"
+  },
+  {
+    "year": 1979,
+    "school": "Harvard",
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Joe Toles",
+    "leg_idx": 4,
+    "place": 3,
+    "corrections": {
+      "name": "John Murphy",
+      "split_time": "1:51.3"
+    },
+    "notes": "Wrong relay members for Harvard place 3"
+  },
+  {
+    "year": 1979,
+    "school": "Harvard",
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "John Tuttle",
+    "leg_idx": 1,
+    "place": 3,
+    "corrections": {
+      "name": "Adam Dixon",
+      "split_time": "1:56.1"
+    },
+    "notes": "Wrong relay members for Harvard place 3"
+  },
+  {
+    "year": 1979,
+    "school": "Harvard",
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Theodis Abston",
+    "leg_idx": 2,
+    "place": 3,
+    "corrections": {
+      "name": "John Chafee",
+      "split_time": "1:52.9"
+    },
+    "notes": "Wrong relay members for Harvard place 3"
+  },
+  {
+    "year": 1979,
+    "school": "Iowa",
+    "discipline": "800m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Bill Martin",
+    "corrections": {
+      "school": "Iona"
+    },
+    "notes": "Iowa should be Iona"
+  },
+  {
+    "year": 1979,
+    "school": "UTEP",
+    "discipline": "Shot Put",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Tim Scott",
+    "place": 5,
+    "corrections": {
+      "school": "Texas A&M"
+    },
+    "notes": "UTEP should be Texas A&M"
+  },
+  {
+    "year": 1980,
+    "school": "Western Michigan",
+    "discipline": "800m",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 7,
+    "corrections": {
+      "mark_str": "1:49.86",
+      "mark_num": 109.86
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '149.86'"
+  },
+  {
+    "year": 1980,
+    "school": "Colorado",
+    "discipline": "Mile",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Richard Harris",
+    "place": 3,
+    "corrections": {
+      "school": "Colorado State"
+    },
+    "notes": "Colorado should be Colorado State"
+  },
+  {
+    "year": 1980,
+    "school": "Louisiana-Monroe",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jarrot Handy",
+    "corrections": {
+      "school": "Northwestern State"
+    },
+    "notes": "Louisiana-Monroe should be Northwestern State"
+  },
+  {
+    "year": 1981,
+    "school": "North Carolina",
+    "discipline": "400m Hurdles",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Ron Foreman",
+    "place": 7,
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 1981,
+    "name": "Mark McNeil",
+    "school": "Baylor",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "leg_idx": 3,
+    "corrections": {
+      "name": "Gerald McNeil"
+    },
+    "notes": "Mark McNeil should be Gerald McNeil"
+  },
+  {
+    "year": 1981,
+    "school": "Washington",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Joseph Taiwo",
+    "corrections": {
+      "school": "Washington State"
+    },
+    "notes": "Washington should be Washington State"
+  },
+  {
+    "year": 1983,
+    "school": "Florida State",
+    "discipline": "10000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Keith Brantly",
+    "place": 5,
+    "corrections": {
+      "school": "Florida"
+    },
+    "notes": "Florida State should be Florida"
+  },
+  {
+    "year": 1983,
+    "school": "Michigan",
+    "discipline": "Long Jump",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "corrections": {
+      "mark_str": "19-0.25",
+      "mark_num": 5.7976
+    },
+    "notes": "Period instead of hyphen in feet-inches mark_str"
+  },
+  {
+    "year": 1984,
+    "school": "Florida State",
+    "discipline": "10000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Keith Brantly",
+    "place": 7,
+    "corrections": {
+      "school": "Florida"
+    },
+    "notes": "Florida State should be Florida"
+  },
+  {
+    "year": 1984,
+    "school": "UTEP",
+    "discipline": "200m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Leroy Reid",
+    "place": 4,
+    "corrections": {
+      "school": "Florida"
+    },
+    "notes": "UTEP should be Florida"
+  },
+  {
+    "year": 1984,
+    "school": "Virginia",
+    "discipline": "400m",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Sharrieffa Barksdale",
+    "place": 4,
+    "corrections": {
+      "school": "Tennessee"
+    },
+    "notes": "Virginia should be Tennessee"
+  },
+  {
+    "year": 1984,
+    "school": "Villanova",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Kim Young",
+    "corrections": {
+      "name": "Joanne Van Renssalaer",
+      "split_time": "57.5"
+    },
+    "notes": "Villanova relay members were Indiana's"
+  },
+  {
+    "year": 1984,
+    "school": "Villanova",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Shelia Montgomery",
+    "corrections": {
+      "name": "Patty Bradley",
+      "split_time": "54.8"
+    },
+    "notes": "Villanova relay members were Indiana's"
+  },
+  {
+    "year": 1984,
+    "school": "Houston",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Tara Mastin",
+    "corrections": {
+      "split_time": "55.2"
+    },
+    "notes": "PDF parser dropped leading digit; should be 55.2 not 5.2"
+  },
+  {
+    "year": 1984,
+    "school": "Villanova",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Tina Parrott",
+    "corrections": {
+      "name": "Debbie Grant",
+      "split_time": "55.4"
+    },
+    "notes": "Villanova relay members were Indiana's"
+  },
+  {
+    "year": 1984,
+    "school": "Villanova",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Vicky Davis",
+    "corrections": {
+      "name": "Veronica McIntosh",
+      "split_time": "54.5"
+    },
+    "notes": "Villanova relay members were Indiana's"
+  },
+  {
+    "year": 1984,
+    "school": "Texas",
+    "discipline": "Steeplechase",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Sam Ngatia",
+    "place": 8,
+    "corrections": {
+      "school": "UTEP"
+    },
+    "notes": "Texas should be UTEP"
+  },
+  {
+    "year": 1985,
+    "name": "Marcia Millery",
+    "school": "Nebraska",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "corrections": {
+      "name": "Michelle Milling"
+    },
+    "notes": "Marcia Millery should be Michelle Milling"
+  },
+  {
+    "year": 1985,
+    "school": "Indiana",
+    "discipline": "High Jump",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Mary Moore",
+    "place": 1,
+    "corrections": {
+      "school": "Washington State"
+    },
+    "notes": "Indiana should be Washington State"
+  },
+  {
+    "year": 1985,
+    "school": "Texas Southern",
+    "discipline": "High Jump",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Shelly Fehrman",
+    "place": 4,
+    "corrections": {
+      "school": "Texas"
+    },
+    "notes": "Texas Southern should be Texas"
+  },
+  {
+    "year": 1985,
+    "school": "Oregon State",
+    "discipline": "Steeplechase",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 4,
+    "corrections": {
+      "mark_str": "8:28.25",
+      "mark_num": 508.25
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '828.25'"
+  },
+  {
+    "year": 1986,
+    "school": "Eastern Kentucky",
+    "discipline": "Mile",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Donna Donakowski",
+    "corrections": {
+      "school": "Eastern Michigan"
+    },
+    "notes": "Eastern Kentucky should be Eastern Michigan"
+  },
+  {
+    "year": 1986,
+    "school": "North Carolina",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Michael Patton",
+    "place": 6,
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 1987,
+    "school": "George Mason",
+    "discipline": "Long Jump",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "D.D. Manns",
+    "corrections": {
+      "school": "James Madison"
+    },
+    "notes": "George Mason should be James Madison"
+  },
+  {
+    "year": 1987,
+    "school": "North Carolina",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Michael Patton",
+    "place": 5,
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 1988,
+    "school": "North Carolina",
+    "discipline": "200m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Danny Peebles",
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 1988,
+    "school": "Villanova",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "James Farmer",
+    "corrections": {
+      "school": "North Carolina"
+    },
+    "notes": "Villanova should be North Carolina"
+  },
+  {
+    "year": 1988,
+    "school": "Oklahoma State",
+    "discipline": "Shot Put",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Ed Wade",
+    "corrections": {
+      "school": "Oklahoma"
+    },
+    "notes": "Oklahoma State should be Oklahoma"
+  },
+  {
+    "year": 1988,
+    "school": "North Carolina",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Michael Patton",
+    "place": 2,
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 1989,
+    "school": "Texas",
+    "discipline": "4x100m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Barbara Flowers Leslie Hardison",
+    "corrections": {
+      "name": "Barbara Flowers"
+    },
+    "notes": "PDF artifact: missing comma between two names"
+  },
+  {
+    "year": 1989,
+    "school": "Texas",
+    "discipline": "4x100m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Tamela Saldana",
+    "corrections": {
+      "leg_idx": 4
+    },
+    "notes": "Shift leg_idx from 3 to 4 (split merged name added leg 3)"
+  },
+  {
+    "year": 1989,
+    "school": "Wisconsin",
+    "discipline": "5000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 7,
+    "corrections": {
+      "mark_str": "14:14.90",
+      "mark_num": 854.9
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '1414.90'"
+  },
+  {
+    "year": 1990,
+    "school": "George Mason",
+    "discipline": "4x800m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "place": 8,
+    "corrections": {
+      "mark_str": "7:27.93",
+      "mark_num": 447.93
+    },
+    "notes": "Period instead of colon in mark_str"
+  },
+  {
+    "year": 1990,
+    "school": "Northwestern State",
+    "discipline": "Long Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jerry Harris",
+    "corrections": {
+      "school": "Louisiana-Monroe"
+    },
+    "notes": "Northwestern State should be Louisiana-Monroe"
+  },
+  {
+    "year": 1991,
+    "school": "Tennessee",
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Abby Hunte",
+    "corrections": {
+      "name": "Monica Olkowski",
+      "split_time": "2:12.2"
+    },
+    "notes": "Wrong relay member for Tennessee place 1"
+  },
+  {
+    "year": 1991,
+    "school": "Tennessee",
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Kim Certain",
+    "corrections": {
+      "name": "Patty Wiegand",
+      "split_time": "2:09.4"
+    },
+    "notes": "Wrong relay member for Tennessee place 1"
+  },
+  {
+    "year": 1991,
+    "school": "Tennessee",
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Michelle Bennett",
+    "corrections": {
+      "name": "Jasmin Jones",
+      "split_time": "2:03.3"
+    },
+    "notes": "Wrong relay member for Tennessee place 1"
+  },
+  {
+    "year": 1991,
+    "school": "Tennessee",
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Michelle Torelli",
+    "corrections": {
+      "name": "Alicia Johnson",
+      "split_time": "2:11.4"
+    },
+    "notes": "Wrong relay member for Tennessee place 1"
+  },
+  {
+    "year": 1991,
+    "school": "Northwestern State",
+    "discipline": "Long Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jerry Harris",
+    "corrections": {
+      "school": "Louisiana-Monroe"
+    },
+    "notes": "Northwestern State should be Louisiana-Monroe"
+  },
+  {
+    "year": 1992,
+    "school": "Wake Forest",
+    "discipline": "5000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Janice Brown",
+    "corrections": {
+      "school": "William & Mary"
+    },
+    "notes": "Wake Forest should be William & Mary"
+  },
+  {
+    "year": 1993,
+    "school": "Mississippi State",
+    "discipline": "10000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Pablo Sierra",
+    "place": 2,
+    "corrections": {
+      "school": "Mississippi"
+    },
+    "notes": "Mississippi State should be Mississippi"
+  },
+  {
+    "year": 1993,
+    "school": "TCU",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 3,
+    "corrections": {
+      "place": 2
+    },
+    "notes": "PDF lists TCU as 3rd but they finished 2nd"
+  },
+  {
+    "year": 1993,
+    "school": "Wisconsin",
+    "discipline": "800m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Sara Renk",
+    "place": 6,
+    "corrections": {
+      "name": "Sarah Renk"
+    },
+    "notes": "PDF has wrong spelling"
+  },
+  {
+    "year": 1994,
+    "school": "Houston",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Sheddric Fields Sam Jefferson",
+    "corrections": {
+      "name": "Sheddric Fields"
+    },
+    "notes": "PDF artifact: missing comma between two names"
+  },
+  {
+    "year": 1994,
+    "school": "Houston",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Ubeja Anderson",
+    "corrections": {
+      "leg_idx": 4
+    },
+    "notes": "Shift leg_idx from 3 to 4 (split merged name added leg 3)"
+  },
+  {
+    "year": 1995,
+    "school": "Portland State",
+    "discipline": "3000m",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Nicole Karr",
+    "place": 3,
+    "corrections": {
+      "school": "Portland"
+    },
+    "notes": "Portland State should be Portland"
+  },
+  {
+    "year": 1996,
+    "school": "BYU",
+    "discipline": "Discus",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Anna Söderberg",
+    "corrections": {
+      "school": "Northern Arizona"
+    },
+    "notes": "BYU should be Northern Arizona"
+  },
+  {
+    "year": 1997,
+    "school": "Louisiana-Lafayette",
+    "discipline": "100m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Ronnie Powell",
+    "place": 7,
+    "corrections": {
+      "school": "Northwestern State"
+    },
+    "notes": "Louisiana-Lafayette should be Northwestern State"
+  },
+  {
+    "year": 1997,
+    "school": "Clemson",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Shekera Wilson",
+    "leg_idx": 4,
+    "corrections": {
+      "name": "Shenita Wilson"
+    },
+    "notes": "Shekera should be Shenita"
+  },
+  {
+    "year": 1997,
+    "school": "Wisconsin",
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 1,
+    "corrections": {
+      "school": "Georgetown"
+    },
+    "notes": "CCC has wrong school"
+  },
+  {
+    "year": 1997,
+    "school": "Villanova",
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "corrections": {
+      "school": "Florida"
+    },
+    "notes": "CCC has wrong school"
+  },
+  {
+    "year": 1997,
+    "school": "Georgetown",
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "corrections": {
+      "school": "Wisconsin"
+    },
+    "notes": "CCC has wrong school"
+  },
+  {
+    "year": 1997,
+    "school": "Florida",
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "corrections": {
+      "school": "North Carolina"
+    },
+    "notes": "CCC has wrong school"
+  },
+  {
+    "year": 1997,
+    "school": "North Carolina",
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "corrections": {
+      "school": "Villanova"
+    },
+    "notes": "CCC has wrong school"
+  },
+  {
+    "year": 1997,
+    "school": "Minnesota",
+    "discipline": "Discus",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Christer Hagberg",
+    "corrections": {
+      "school": "Manhattan"
+    },
+    "notes": "Minnesota should be Manhattan"
+  },
+  {
+    "year": 1998,
+    "school": "Louisiana-Lafayette",
+    "discipline": "100m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Ronnie Powell",
+    "place": 7,
+    "corrections": {
+      "school": "Northwestern State"
+    },
+    "notes": "Louisiana-Lafayette should be Northwestern State"
+  },
+  {
+    "year": 1999,
+    "school": "Northern Illinois",
+    "discipline": "Pole Vault",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jacob Pauli",
+    "corrections": {
+      "school": "Northern Iowa"
+    },
+    "notes": "Northern Illinois should be Northern Iowa"
+  },
+  {
+    "year": 1999,
+    "school": "Louisiana State",
+    "discipline": "Triple Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Bryant Wesco",
+    "corrections": {
+      "school": "Louisiana Tech"
+    },
+    "notes": "Louisiana State should be Louisiana Tech"
+  },
+  {
+    "year": 2000,
+    "school": "Louisiana State",
+    "discipline": "4x100m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Tacita Bass",
+    "leg_idx": 2,
+    "corrections": {
+      "name": "Valma Bass"
+    },
+    "notes": "Tacita should be Valma"
+  },
+  {
+    "year": 2000,
+    "school": "Louisiana State",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Tacita Bass",
+    "leg_idx": 3,
+    "corrections": {
+      "name": "Valma Bass"
+    },
+    "notes": "Tacita should be Valma"
+  },
+  {
+    "year": 2000,
+    "school": "Kansas State",
+    "discipline": "Javelin",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Cassi Morelock",
+    "corrections": {
+      "school": "Nebraska"
+    },
+    "notes": "Kansas State should be Nebraska"
+  },
+  {
+    "year": 2000,
+    "school": "Tennessee",
+    "discipline": "Steeplechase",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 4,
+    "corrections": {
+      "mark_str": "8:42.49",
+      "mark_num": 522.49
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '842.49'"
+  },
+  {
+    "year": 2001,
+    "school": "Arkansas-Little Rock",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Daniel Lincoln",
+    "corrections": {
+      "school": "Arkansas"
+    },
+    "notes": "Arkansas-Little Rock should be Arkansas"
+  },
+  {
+    "year": 2001,
+    "school": "Eastern Michigan",
+    "discipline": "Long Jump",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Kurt Kraemer",
+    "place": 13,
+    "corrections": {
+      "school": "Eastern Washington"
+    },
+    "notes": "Eastern Michigan should be Eastern Washington"
+  },
+  {
+    "year": 2003,
+    "school": "Minnesota",
+    "discipline": "High Jump",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Stephanie Linz",
+    "place": 7,
+    "corrections": {
+      "school": "Michigan"
+    },
+    "notes": "Minnesota should be Michigan"
+  },
+  {
+    "year": 2004,
+    "school": "UT Arlington",
+    "discipline": "Heptathlon",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Ryanne Dupree",
+    "corrections": {
+      "school": "UTSA"
+    },
+    "notes": "PDF has wrong school"
+  },
+  {
+    "year": 2004,
+    "school": "Miami (Fla.)",
+    "discipline": "Shot Put",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Kim Barrett",
+    "place": 8,
+    "corrections": {
+      "school": "Florida"
+    },
+    "notes": "Miami (Fla.) should be Florida"
+  },
+  {
+    "year": 2005,
+    "school": "Iowa State",
+    "discipline": "400m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Kineke Alexander",
+    "place": 7,
+    "corrections": {
+      "school": "Iowa"
+    },
+    "notes": "Iowa State should be Iowa"
+  },
+  {
+    "year": 2005,
+    "school": "Tennessee",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "JonathanWade",
+    "corrections": {
+      "name": "Jonathan Wade"
+    },
+    "notes": "PDF artifact: missing space between names"
+  },
+  {
+    "year": 2005,
+    "school": "Washington",
+    "discipline": "Pole Vault",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Brian Mondschein",
+    "corrections": {
+      "school": "Virginia Tech"
+    },
+    "notes": "Washington should be Virginia Tech"
+  },
+  {
+    "year": 2005,
+    "school": "UCLA",
+    "discipline": "Triple Jump",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Chaytan Hill",
+    "corrections": {
+      "school": "Kansas State"
+    },
+    "notes": "UCLA should be Kansas State"
+  },
+  {
+    "year": 2006,
+    "school": "Arkansas",
+    "discipline": "Javelin",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Ashley Kaufman",
+    "corrections": {
+      "school": "Akron"
+    },
+    "notes": "Arkansas should be Akron"
+  },
+  {
+    "year": 2006,
+    "school": "North Carolina",
+    "discipline": "Shot Put",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Mitchell Pope",
+    "place": 10,
+    "corrections": {
+      "school": "NC State"
+    },
+    "notes": "North Carolina should be NC State"
+  },
+  {
+    "year": 2006,
+    "school": "Northern Illinois",
+    "discipline": "Shot Put",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Rachel Jansen",
+    "place": 10,
+    "corrections": {
+      "school": "Northern Iowa"
+    },
+    "notes": "Northern Illinois should be Northern Iowa"
+  },
+  {
+    "year": 2007,
+    "school": "Georgia",
+    "discipline": "400m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Ashlee Kidd",
+    "corrections": {
+      "school": "Georgia Tech"
+    },
+    "notes": "Georgia should be Georgia Tech"
+  },
+  {
+    "year": 2007,
+    "school": "Tulane",
+    "discipline": "5000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Alex Becker",
+    "place": 7,
+    "corrections": {
+      "school": "Tulsa"
+    },
+    "notes": "PDF has wrong school"
+  },
+  {
+    "year": 2008,
+    "school": "Wisconsin",
+    "discipline": "5000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "place": 7,
+    "corrections": {
+      "mark_str": "16:10.85",
+      "mark_num": 970.85
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '1610.85'"
+  },
+  {
+    "year": 2009,
+    "school": "Tulane",
+    "discipline": "10000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Alex Becker",
+    "place": 5,
+    "corrections": {
+      "school": "Tulsa"
+    },
+    "notes": "PDF has wrong school"
+  },
+  {
+    "year": 2009,
+    "school": "Tulane",
+    "discipline": "5000m",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Alex Becker",
+    "place": 6,
+    "corrections": {
+      "school": "Tulsa"
+    },
+    "notes": "PDF has wrong school"
+  },
+  {
+    "year": 2009,
+    "school": "Arkansas",
+    "discipline": "Pole Vault",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Carrie Kayes",
+    "corrections": {
+      "school": "Akron"
+    },
+    "notes": "Arkansas should be Akron"
+  },
+  {
+    "year": 2009,
+    "school": "Michigan",
+    "discipline": "Steeplechase",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Nicole Bush",
+    "place": 2,
+    "corrections": {
+      "school": "Michigan State"
+    },
+    "notes": "Michigan should be Michigan State"
+  },
+  {
+    "year": 2009,
+    "school": "Texas A&M",
+    "discipline": "Triple Jump",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Sarah Nwmbawa",
+    "place": 3,
+    "corrections": {
+      "school": "Middle Tennessee State"
+    },
+    "notes": "Texas A&M should be Middle Tennessee State"
+  },
+  {
+    "year": 2009,
+    "school": "Washington State",
+    "discipline": "Weight Throw",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Irene Cooper",
+    "corrections": {
+      "school": "Western Michigan"
+    },
+    "notes": "Washington State should be Western Michigan"
+  },
+  {
+    "year": 2010,
+    "school": "Akron",
+    "discipline": "Pole Vault",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Jack Whitt",
+    "corrections": {
+      "school": "Oral Roberts"
+    },
+    "notes": "Akron should be Oral Roberts"
+  },
+  {
+    "year": 2010,
+    "school": "Colorado State",
+    "discipline": "Steeplechase",
+    "gender": "women",
+    "environment": "outdoor",
+    "place": 7,
+    "corrections": {
+      "mark_str": "10:07.40",
+      "mark_num": 607.4
+    },
+    "notes": "Malformed mark_str was '10:0740'"
+  },
+  {
+    "year": 2010,
+    "school": "Southeast Missouri",
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Adonson Shallow",
+    "place": 10,
+    "corrections": {
+      "school": "Southeastern Louisiana"
+    },
+    "notes": "Wrong school from source"
+  },
+  {
+    "year": 2011,
+    "school": "Oklahoma State",
+    "discipline": "100m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Mookie Salaam",
+    "place": 2,
+    "corrections": {
+      "school": "Oklahoma"
+    },
+    "notes": "Oklahoma State should be Oklahoma"
+  },
+  {
+    "year": 2011,
+    "school": "North Dakota",
+    "discipline": "Heptathlon",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Whitney Carlson",
+    "place": 5,
+    "corrections": {
+      "school": "North Dakota State"
+    },
+    "notes": "North Dakota should be North Dakota State"
+  },
+  {
+    "year": 2012,
+    "school": "Ohio State",
+    "discipline": "Steeplechase",
+    "gender": "men",
+    "environment": "outdoor",
+    "place": 3,
+    "corrections": {
+      "mark_str": "8:40.98",
+      "mark_num": 520.98
+    },
+    "notes": "Missing colon in PDF parse; mark_str was '840.98'"
+  },
+  {
+    "year": 2013,
+    "school": "Texas A&M",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Aldrich Bailey",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2013,
+    "school": "Texas A&M",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Aldrich Bailey",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2014,
+    "school": "Texas A&M",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Aldrich Bailey",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2014,
+    "school": "Texas A&M",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Aldrich Bailey",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2014,
+    "school": "Texas A&M",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Aldrich Bailey, Jr.",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2015,
+    "school": "Southern California",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "name": "Amalie Iuel",
+    "corrections": {
+      "split_time": "50.8"
+    },
+    "notes": "PDF parser dropped leading digit; should be 50.8 not 5.08"
+  },
+  {
+    "year": 2016,
+    "school": "Mississippi State",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Antonio Carter",
+    "corrections": {
+      "name": "Alfred Larry",
+      "split_time": "47.10"
+    },
+    "notes": "Mississippi State relay members were Tennessee's"
+  },
+  {
+    "year": 2016,
+    "school": "Mississippi State",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Ari Cogdell",
+    "corrections": {
+      "name": "Juston Waters",
+      "split_time": "46.40"
+    },
+    "notes": "Mississippi State relay members were Tennessee's"
+  },
+  {
+    "year": 2016,
+    "school": "Mississippi State",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Christian Coleman",
+    "corrections": {
+      "name": "Charles Taylor",
+      "split_time": "46.32"
+    },
+    "notes": "Mississippi State relay members were Tennessee's"
+  },
+  {
+    "year": 2016,
+    "school": "Mississippi State",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Nathan Strother",
+    "corrections": {
+      "name": "Brandon McBride",
+      "split_time": "46.49"
+    },
+    "notes": "Mississippi State relay members were Tennessee's"
+  },
+  {
+    "year": 2017,
+    "school": "Texas",
+    "discipline": "4x100m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Aldrich Bailey",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2017,
+    "school": "Texas",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "indoor",
+    "name": "Aldrich Bailey, Jr.",
+    "corrections": {
+      "name": "Aldrich Bailey Jr."
+    },
+    "notes": "Name variant normalization"
+  },
+  {
+    "year": 2017,
+    "school": "Tulsa",
+    "discipline": "Pole Vault",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Alyssa Applebee",
+    "corrections": {
+      "school": "Tulane"
+    },
+    "notes": "Tulsa should be Tulane"
+  },
+  {
+    "year": 2019,
+    "school": "San Diego State",
+    "discipline": "Pole Vault",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Helen Falda",
+    "corrections": {
+      "school": "South Dakota"
+    },
+    "notes": "San Diego State should be South Dakota"
+  },
+  {
+    "year": 2022,
+    "school": "Florida State",
+    "discipline": "4x100m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "SayvonToombs",
+    "corrections": {
+      "name": "Sayvon Toombs'"
+    },
+    "notes": "PDF artifact: missing space between names"
+  },
+  {
+    "year": 2023,
+    "school": "Oklahoma State",
+    "discipline": "Heptathlon",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Pippi Lotta Enok",
+    "place": 1,
+    "corrections": {
+      "school": "Oklahoma"
+    },
+    "notes": "Oklahoma State should be Oklahoma"
+  },
+  {
+    "year": 2023,
+    "school": "San Diego State",
+    "discipline": "Pole Vault",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "Marleen Mulla",
+    "place": 6,
+    "corrections": {
+      "school": "South Dakota"
+    },
+    "notes": "San Diego State should be South Dakota"
+  },
+  {
+    "year": 2024,
+    "school": "Texas A&M",
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "outdoor",
+    "name": "KennedyWade",
+    "corrections": {
+      "name": "Kennedy Wade"
+    },
+    "notes": "PDF artifact: missing space between names"
+  },
+  {
+    "year": 1930,
+    "school": "Oklahoma State",
+    "discipline": "3000m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Glen Dawson",
+    "place": 6,
+    "corrections": {
+      "school": "Oklahoma"
+    },
+    "notes": "Oklahoma State should be Oklahoma"
+  },
+  {
+    "year": 1931,
+    "school": "Oklahoma State",
+    "discipline": "1500m",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Glen Dawson",
+    "place": 3,
+    "corrections": {
+      "school": "Oklahoma"
+    },
+    "notes": "Oklahoma State should be Oklahoma"
+  },
+  {
+    "year": 1929,
+    "school": "Denver",
+    "discipline": "Hammer",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Dutch Clark",
+    "place": 3,
+    "corrections": {
+      "school": "Colorado College"
+    },
+    "notes": "Denver should be Colorado College"
+  }
+]

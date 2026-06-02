@@ -1,0 +1,6207 @@
+[
+  {
+    "year": 1983,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Missouri",
+    "mark_str": "9:05.0",
+    "source_url": "https://www.newspapers.com/article/columbia-missourian-tigers-see-improveme/195314535/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Rosalyn Dunlap"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Chris White"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sabrina Dornhoefer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:14.2",
+        "name": "Cyd Thomas"
+      }
+    ]
+  },
+  {
+    "year": 1983,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Purdue",
+    "mark_str": "9:05.9",
+    "source_url": "https://www.newspapers.com/article/journal-and-courier-womens-relay-in-nca/195315476/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jymette Bonniver"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Nancy Sanford"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jeannie Molohon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Becky Cotta"
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Penn State",
+    "mark_str": "8:45.60",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.5",
+        "name": "Judi Cassel"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:13.4",
+        "name": "Heidi Gerken"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.4",
+        "name": "Tammie Hart"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:11.3",
+        "name": "Beth Stever"
+      }
+    ]
+  },
+  {
+    "year": 1985,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Illinois",
+    "mark_str": "8:48.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Ann Henry"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cheryl Ward"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kelly McNee"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Margaret Vogel"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Texas",
+    "mark_str": "3:35.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Terri Turner"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Leslie Hardison"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Barbara Flowers"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Juliet Cuthbert"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Southern California",
+    "mark_str": "3:36.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Gervaise McCraw"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Leslie Maxie"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "LaWanda Cabell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Myra Mayberry"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Louisiana State",
+    "mark_str": "3:37.05",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michele Morris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Schowanda Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Danyel Wofford"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Wendy Truvillion"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Nebraska",
+    "mark_str": "3:39.88",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle Milling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Vicky Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Angela Thacker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Linette Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "8:36.80",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle DiMuro"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Celeste Halliday"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Joanne Kehs"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Debbie Grant"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Virginia",
+    "mark_str": "8:39.58",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle Rowen"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Shelly McBride"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sandy Schuler"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Phyllis Buber"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Nebraska",
+    "mark_str": "8:39.90",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle Milling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Heidi Christiansen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jill Noel"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Nicole Ali"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "BYU",
+    "mark_str": "8:41.80",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Angela Cook"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Angela Bridgeman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Melanie Child"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Noeleen Mullan"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rice",
+    "mark_str": "8:42.18",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Pam Klassen"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Michelle Barz"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kristen Aure"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maureen Stewart"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Nebraska",
+    "mark_str": "3:35.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.7",
+        "name": "Michelle Milling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.9",
+        "name": "Beth Webster"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.4",
+        "name": "Sharon Powell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.9",
+        "name": "Linette Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Rice",
+    "mark_str": "3:36.48",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.3",
+        "name": "Robyn Bryant"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.4",
+        "name": "Tanya McIntosh"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.9",
+        "name": "Tammy Welch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.9",
+        "name": "Maureen Stewart"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Tennessee",
+    "mark_str": "3:37.65",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Carla McLaughlin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "LaVonna Martin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Princess Bennett"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Ilrey Oliver"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Texas",
+    "mark_str": "3:39.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.3",
+        "name": "Sametra King"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.5",
+        "name": "Leslie Hardison"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.1",
+        "name": "Althea Thomas"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "55.5",
+        "name": "Karol Davidson"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Alabama",
+    "mark_str": "3:41.39",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sandra Latham"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Evelyn Adiru"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sherryl White"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Pauline Davis"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Louisiana State",
+    "mark_str": "8:26.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:06.1",
+        "name": "Jackie Bobien"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.1",
+        "name": "Kathi Harris"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:05.1",
+        "name": "Camille Cato"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:05.8",
+        "name": "Sylvia Brydson"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "BYU",
+    "mark_str": "8:31.30",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Angela Cook"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Noeleen Mullan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Melanie Child"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Julie Jenkins"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Iowa State",
+    "mark_str": "8:33.41",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Deb Betz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Nawal El Moutawakel"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Dawn Lentsch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maria Akraka"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Kentucky",
+    "mark_str": "8:42.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sherry Hoover"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Kim Hawkins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Lisa Breiding"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Laura McSpadden"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Iowa",
+    "mark_str": "8:46.09",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sherri Suppelsa"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jeanne Kruckeberg"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kim Schneckloth"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Janet Wodek"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Yale",
+    "mark_str": "8:48.24",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Louisa Gerritz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Heidi Waterfield"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kimberly Ford"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maureen Bolyea"
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Tennessee",
+    "mark_str": "8:52.31",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Terri Young"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Darlene Reichmuth"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Andrea Angell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Mary McGuiness"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Nebraska",
+    "mark_str": "3:38.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.9",
+        "name": "Michelle Milling"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.0",
+        "name": "Lisa O'Connell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.5",
+        "name": "Sharon Powell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.7",
+        "name": "Linette Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Illinois",
+    "mark_str": "3:39.59",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.7",
+        "name": "Victoria Fulcher"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.8",
+        "name": "Shirley Bodden"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.0",
+        "name": "Angela McClatchey"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.1",
+        "name": "Celena Mondie-Milner"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Rice",
+    "mark_str": "3:43.06",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Robyn Bryant"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Michele Lynch"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tanya McIntosh"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maureen Stewart"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "North Carolina",
+    "mark_str": "3:43.90",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.1",
+        "name": "Kendra Mackey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.5",
+        "name": "Shelby Moorman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.4",
+        "name": "Jill Irizarry"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "57.9",
+        "name": "Mia Pollard"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Tennessee",
+    "mark_str": "3:44.38",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Princess Bennett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tara Coleman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "LaVonna Martin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Shawn Moore"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Wisconsin",
+    "mark_str": "8:38.17",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:12.2",
+        "name": "Carole Harris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.3",
+        "name": "Julie Schlitz"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:08.9",
+        "name": "Sue Gentes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:06.8",
+        "name": "Suzy Favor"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Houston",
+    "mark_str": "8:39.67",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.2",
+        "name": "Donyall Greenwell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.9",
+        "name": "Nanette Garcia"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.8",
+        "name": "Rochelle Greenwell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:06.8",
+        "name": "Theresa Dunn-Fuqua"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Louisiana State",
+    "mark_str": "8:39.99",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.1",
+        "name": "Jackie Bobien"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:11.4",
+        "name": "Schowonda Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.9",
+        "name": "Leslie Nixon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:07.6",
+        "name": "Sylvia Brydson"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Texas",
+    "mark_str": "8:42.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.8",
+        "name": "Kellie Roberts"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:07.8",
+        "name": "Shola Lynch"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:14.9",
+        "name": "Shelia Quigley"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.0",
+        "name": "Karol Davidson"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Tennessee",
+    "mark_str": "8:46.22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:15.8",
+        "name": "Patty Wiegand"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.9",
+        "name": "Valerie Bertrand"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.7",
+        "name": "Gina Wilbanks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:06.8",
+        "name": "Vonda Hammons"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Princeton",
+    "mark_str": "8:50.55",
+    "source_url": "https://www.newspapers.com/article/the-times-womens-track-tiger-foursome-e/195319113/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Becky Wells"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Meagan Dewey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Laura Cattivera"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Nancy Easton"
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Nebraska",
+    "mark_str": "8:50.63",
+    "source_url": "https://www.newspapers.com/article/the-lincoln-star-cornhuskers-will-have-t/195319388/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sharon Powell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Lisa O'Connell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Juliet Prowse"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Sammie Resh"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Nebraska",
+    "mark_str": "3:35.21",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.0",
+        "name": "Ximena Restrepo"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.0",
+        "name": "Beth Webster"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.7",
+        "name": "Tanya Lidy"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.5",
+        "name": "Linette Wilson"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Rice",
+    "mark_str": "3:36.81",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.7",
+        "name": "Robyn Bryant"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.3",
+        "name": "Maureen Stewart"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.4",
+        "name": "Rosey Edeh"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.4",
+        "name": "Tanya McIntosh"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Illinois",
+    "mark_str": "3:37.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.3",
+        "name": "Shayla Baine"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Angela McClatchey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.7",
+        "name": "Renee Carr"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.7",
+        "name": "Celena Mondie-Milner"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Oklahoma",
+    "mark_str": "3:38.51",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.0",
+        "name": "Carla Wilson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Kim Nichols"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.2",
+        "name": "Darlena Morganfield"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.5",
+        "name": "Wendy Watson"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "North Carolina",
+    "mark_str": "3:39.60",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.2",
+        "name": "Sonya Thomas"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.3",
+        "name": "Shelby Moorman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.5",
+        "name": "Rebecca Russell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.6",
+        "name": "Kendra Mackey"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Florida",
+    "mark_str": "3:43.51",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.7",
+        "name": "Dorchelle Webster"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.3",
+        "name": "Tasha Downing"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "57.2",
+        "name": "LaCheryl Aikens"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "56.3",
+        "name": "Anita Howard"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "UNLV",
+    "mark_str": "3:50.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.2",
+        "name": "Trevaia Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.7",
+        "name": "Cheryl Cheeks"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Julie Harrison"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "65.1",
+        "name": "Sonji Green"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Kentucky",
+    "mark_str": "8:36.53",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.0",
+        "name": "Sherry Hoover"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:08.6",
+        "name": "Kim Hawkins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:06.2",
+        "name": "Kerry Rink"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:10.7",
+        "name": "Laura McSpadden"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Houston",
+    "mark_str": "8:42.66",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.2",
+        "name": "Rochelle Greenwell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:11.2",
+        "name": "Shynae Godfrey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:09.3",
+        "name": "Michele Billings"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:12.0",
+        "name": "Donyall Greenwell"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Rice",
+    "mark_str": "8:44.29",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Heather McDermid"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Michelle Barz"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kirsten Aure"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maureen Stewart"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "North Carolina",
+    "mark_str": "8:48.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle Faherty"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Kari Krehnbrink"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Monica Witterholt"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Mia Pollard"
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Louisiana State",
+    "mark_str": "9:00.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Roslyn Rucker"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Donalda Duprey"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Rhonda Phillips"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Sylvia Byrdson"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Florida",
+    "mark_str": "3:35.92",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.9",
+        "name": "Kim Mitchell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.1",
+        "name": "Tasha Downing"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.1",
+        "name": "Dorchelle Webster"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.8",
+        "name": "Anita Howard"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Oklahoma",
+    "mark_str": "3:37.68",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.8",
+        "name": "Wendy Watson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.6",
+        "name": "Lenell Miller"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.8",
+        "name": "Karen Draper"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.5",
+        "name": "Darlena Morganfield"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Howard",
+    "mark_str": "3:38.18",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.4",
+        "name": "Suzie Tanefo"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.2",
+        "name": "Holli Walker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.7",
+        "name": "Camille Hendrix"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.0",
+        "name": "Michelle Felder"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Illinois",
+    "mark_str": "3:38.68",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.4",
+        "name": "Shayla Baine"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.6",
+        "name": "Celena Mondie-Milner"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.1",
+        "name": "Althea Thomas"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.7",
+        "name": "Renee Carr"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Alabama",
+    "mark_str": "3:38.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.4",
+        "name": "Carleen Smith"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.5",
+        "name": "Benita Thomas"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.8",
+        "name": "Kareth Smith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.2",
+        "name": "Diane Dunrod"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Tennessee",
+    "mark_str": "8:35.32",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.3",
+        "name": "Shawn Moore"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:08.4",
+        "name": "Valerie Bertrand"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:09.8",
+        "name": "Alicia Johnson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:05.8",
+        "name": "Jasmin Jones"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Indiana",
+    "mark_str": "8:41.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.0",
+        "name": "Ann Lampkin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.5",
+        "name": "Kathy Gobbett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:12.1",
+        "name": "Kristen Laskowski"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:07.6",
+        "name": "Jeanne Sorrells"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Georgetown",
+    "mark_str": "8:41.26",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:13.2",
+        "name": "Susan Dahm"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.5",
+        "name": "Deirdre Fleming"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:07.4",
+        "name": "Aaronda Watson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:11.2",
+        "name": "Mary Noel Zadnik"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "North Carolina",
+    "mark_str": "8:43.93",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.1",
+        "name": "Michelle Faherty"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:12.0",
+        "name": "Rebecca Russell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:12.0",
+        "name": "Kari Krehnbrink"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.9",
+        "name": "Mia Pollard"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Florida State",
+    "mark_str": "8:45.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Karla Severs"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tracey Howze"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Anhela Harris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Carrie Boyd"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Nebraska",
+    "mark_str": "3:34.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.4",
+        "name": "Shanelle Porter"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.9",
+        "name": "Tranquil Wilson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "52.6",
+        "name": "Kim Walker"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.6",
+        "name": "Ximena Restrepo"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Louisiana State",
+    "mark_str": "3:36.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.8",
+        "name": "Youlanda Warren"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.2",
+        "name": "Esther Jones"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.1",
+        "name": "Donalda Duprey"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.4",
+        "name": "Heather Van Norman"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Florida",
+    "mark_str": "3:36.71",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.4",
+        "name": "Nekita Beasley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.0",
+        "name": "Kim Mitchell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.9",
+        "name": "Anita Howard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.4",
+        "name": "Tasha Downing"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Alabama",
+    "mark_str": "3:36.92",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.6",
+        "name": "Carleen Smith"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.0",
+        "name": "Grace Buzu"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Kareth Smith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.3",
+        "name": "Diane Dunrod-Francis"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "North Carolina",
+    "mark_str": "8:39.59",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.9",
+        "name": "Michelle Faherty"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.9",
+        "name": "Andrea Green"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:12.0",
+        "name": "Mel Benner"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:07.8",
+        "name": "Rebecca Russell"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Alabama",
+    "mark_str": "8:41.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.1",
+        "name": "Malen Ohlund"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.9",
+        "name": "Marie Ohlund"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.7",
+        "name": "Kristen Seabury"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.5",
+        "name": "Vicky Lynch"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Baylor",
+    "mark_str": "8:43.49",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.02",
+        "name": "Heather Van Dyke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.8",
+        "name": "Natalie Nalepa"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:13.0",
+        "name": "Janet Dollins"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:09.5",
+        "name": "Kristen Mulliner"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Villanova",
+    "mark_str": "8:43.74",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.2",
+        "name": "Michelle Torelli"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:08.3",
+        "name": "Michelle Bennett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.7",
+        "name": "Irene Ruopoli"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:14.5",
+        "name": "Abby Hunte"
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "8:45.38",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:13.3",
+        "name": "Mindy Schneider"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:12.4",
+        "name": "Aaronda Watson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.9",
+        "name": "Deirdre Fleming"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:09.8",
+        "name": "Kari Bertrand"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Houston",
+    "mark_str": "3:34.39",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.4",
+        "name": "De'Angelia Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Cecilia Crockett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.7",
+        "name": "Drexel Long"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "51.5",
+        "name": "Michelle Collins"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Tennessee",
+    "mark_str": "3:35.80",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.2",
+        "name": "Pat Leroy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.1",
+        "name": "Sue Walton"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Tisha Prather"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.5",
+        "name": "Tonya Lee"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Seton Hall",
+    "mark_str": "3:36.05",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.0",
+        "name": "Julia Sandiford"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.7",
+        "name": "Veronica Harris"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "52.1",
+        "name": "Flirtisha Harris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.3",
+        "name": "Shana Williams"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Auburn",
+    "mark_str": "3:36.36",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.8",
+        "name": "Melinda Williamson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.3",
+        "name": "Cheyl-Ann Phillips"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.9",
+        "name": "Winifred Onyali"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "51.4",
+        "name": "Juliet Campbell"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "3:37.11",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.3",
+        "name": "Erica Stanley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.3",
+        "name": "Batanya Poole"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Judith Owen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.5",
+        "name": "Steffanie Smith"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Alabama",
+    "mark_str": "8:30.58",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.9",
+        "name": "Malen Ohlund"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:07.4",
+        "name": "Celeste Jenkins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:07.3",
+        "name": "Marie Ohlund"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:05.0",
+        "name": "Vicky Lynch"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Texas",
+    "mark_str": "8:34.69",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.4",
+        "name": "Barbara Selkridge"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:06.9",
+        "name": "Kellie Roberts"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.1",
+        "name": "Robin Bryson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:06.3",
+        "name": "Shola Lynch"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Villanova",
+    "mark_str": "8:38.75",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.7",
+        "name": "Cheri Goddard"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.9",
+        "name": "Irene Ruopoli"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.1",
+        "name": "Nnenna Lynch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:09.1",
+        "name": "Christine Gentile"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Providence",
+    "mark_str": "8:40.74",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.8",
+        "name": "Amy Rudolph"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.3",
+        "name": "Leanne Burke"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:13.3",
+        "name": "Sinead Delahunty"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:05.3",
+        "name": "Geraldine Nolan"
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Georgetown",
+    "mark_str": "8:40.92",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.8",
+        "name": "Mary German"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:07.0",
+        "name": "Aaronda Watson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:13.9",
+        "name": "Joline Staeheli"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.2",
+        "name": "Kari Bertrand"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Houston",
+    "mark_str": "3:34.96",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.6",
+        "name": "De'Angelia Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.5",
+        "name": "Drexel Long"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.3",
+        "name": "Cynthia Jackson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "51.5",
+        "name": "Michelle Collins"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Florida",
+    "mark_str": "3:35.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.5",
+        "name": "Monifa Taylor"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.1",
+        "name": "Melynda Springer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.7",
+        "name": "Ebony Robinson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.8",
+        "name": "Kim Mitchell"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Arizona State",
+    "mark_str": "3:36.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.3",
+        "name": "Shanequa Campbell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.4",
+        "name": "Janice Nichols"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.7",
+        "name": "Omotayo Akinremi"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.6",
+        "name": "Omolade Akinremi"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Seton Hall",
+    "mark_str": "3:36.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.4",
+        "name": "Julia Sandiford"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.6",
+        "name": "Keisha Caine"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.1",
+        "name": "Shana Williams"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.7",
+        "name": "Flirtisha Harris"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Alabama",
+    "mark_str": "3:37.52",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.5",
+        "name": "Fertacia Chapman"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.1",
+        "name": "Stacy Bowen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Faith Idehen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.9",
+        "name": "Michelle Morgan"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "8:35.56",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.6",
+        "name": "Irene Ruopoli"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:06.4",
+        "name": "Tosha Woodward"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.2",
+        "name": "Nikki Shaw"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.3",
+        "name": "Abby Hunte"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Alabama",
+    "mark_str": "8:37.40",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.0",
+        "name": "Malen Ohlund"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.0",
+        "name": "Celeste Jenkins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:09.2",
+        "name": "Marie Ohlund"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:07.2",
+        "name": "Vicky Lynch"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "North Carolina",
+    "mark_str": "8:38.71",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.8",
+        "name": "Trudy Stallings"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:09.3",
+        "name": "Leslie McCaskill"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.7",
+        "name": "Monique Hunt"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:07.9",
+        "name": "Andrea Green"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Arkansas",
+    "mark_str": "8:44.84",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:08.8",
+        "name": "Tanya Blake"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:13.9",
+        "name": "Sarah Schwald"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:13.8",
+        "name": "Rene Pillow"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.3",
+        "name": "Nicole Teter"
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "discipline": "4x800m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rice",
+    "mark_str": "8:44.98",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.6",
+        "name": "Chepella Scurlock"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "2:10.9",
+        "name": "Pam Brooks"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:15.3",
+        "name": "Emily Massad"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "2:08.1",
+        "name": "Candace Lessmeister"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Houston",
+    "mark_str": "3:35.23",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.0",
+        "name": "De'Angelia Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.9",
+        "name": "Drexel Long"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.2",
+        "name": "Nicole Ates"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.1",
+        "name": "Cynthia Jackson"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Arizona State",
+    "mark_str": "3:35.78",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.1",
+        "name": "Omolade Akinremi"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.8",
+        "name": "Omotayo Akinremi"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.7",
+        "name": "Jacqui Gayle"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.2",
+        "name": "Shanequa Campbell"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Louisiana State",
+    "mark_str": "3:36.48",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.8",
+        "name": "Eureka Hall"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.0",
+        "name": "LaTarsha Stroman"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.4",
+        "name": "Zundra Feagin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.3",
+        "name": "Debbie Parris"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Illinois",
+    "mark_str": "3:38.85",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.9",
+        "name": "Kathy Williams"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.5",
+        "name": "Janelle Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.7",
+        "name": "Hope Sanders"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.8",
+        "name": "Tonya Williams"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rice",
+    "mark_str": "3:39.41",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "TaHisha Mills"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Melissa Straker"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Vonda Newhouse"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.9",
+        "name": "Pam Brooks"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "UNLV",
+    "mark_str": "3:41.86",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.6",
+        "name": "Latasha Prothro"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.3",
+        "name": "Latrica Dendy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.9",
+        "name": "Cheryl Allen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.1",
+        "name": "Jean Fletcher"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Nebraska",
+    "mark_str": "3:42.07",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.6",
+        "name": "Kathy Travis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.4",
+        "name": "Jenny Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.1",
+        "name": "Jill Myatt"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.0",
+        "name": "Shanelle Porter"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Georgetown",
+    "mark_str": "11:13.43",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.9",
+        "name": "Maxine Clarke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.5",
+        "name": "Batanya Poole"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:22.9",
+        "name": "Miesha Marzell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:45.1",
+        "name": "Mindy Schneider"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Alabama",
+    "mark_str": "11:17.15",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.8",
+        "name": "Marie Ohlund"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.6",
+        "name": "Stacy Bowen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:22.4",
+        "name": "Vicky Lynch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:51.4",
+        "name": "Becki Wells"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Providence",
+    "mark_str": "11:22.55",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Krissy Haacke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Susan Murnane"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Marie McMahon"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Amy Rudolph"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Weber State",
+    "mark_str": "11:23.00",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Taunya Olsen"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jeni Holbrook"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Cathy Jolly"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Shawna Cox"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Wisconsin",
+    "mark_str": "11:25.42",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jen Metz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Jennifer Watson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Julie Cote"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Amy Wickus"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Villanova",
+    "mark_str": "11:26.97",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Emer Molloy"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cathalina Staye"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tosha Woodward"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Becky Spies"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Auburn",
+    "mark_str": "11:26.98",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Nichole Bartley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Eusheka Bartley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Janet Trujillo"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Rachel Sauder"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Louisiana State",
+    "mark_str": "3:32.94",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.9",
+        "name": "LaTarsha Stroman"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.2",
+        "name": "Sheila Powell"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.2",
+        "name": "Charlene Maulseed"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "51.6",
+        "name": "Youlanda Warren"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Arizona State",
+    "mark_str": "3:33.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.5",
+        "name": "Jacqui Gayle"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.1",
+        "name": "Omolade Akinremi"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.1",
+        "name": "Avia Morgan"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.1",
+        "name": "Loriann Adams"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:36.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.0",
+        "name": "Kisha Jett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.3",
+        "name": "Anglea Fitts"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.0",
+        "name": "Ebony Robinson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.7",
+        "name": "Melynda Springer"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Seton Hall",
+    "mark_str": "3:37.07",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.2",
+        "name": "Tasha Boston"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.8",
+        "name": "Shermaine Ross"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.3",
+        "name": "Julia Sandiford"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.8",
+        "name": "Keisha Caine"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Baylor",
+    "mark_str": "3:37.47",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.2",
+        "name": "Melissa Roland"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.8",
+        "name": "Jennifer Jordan"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.6",
+        "name": "Shelly Green"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.9",
+        "name": "Stacy Milligan"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Rice",
+    "mark_str": "3:37.94",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.0",
+        "name": "TaNisha Mills"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.1",
+        "name": "Vonda Newhouse"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.9",
+        "name": "Andrea Blackett"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.9",
+        "name": "Melissa Straker"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "George Mason",
+    "mark_str": "3:40.63",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.9",
+        "name": "Janelle Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Patrice Smothers"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.5",
+        "name": "Staci Hubbard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "55.4",
+        "name": "Kim Baldwin"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Auburn",
+    "mark_str": "11:13.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:09.8",
+        "name": "Eusheka Bartley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.1",
+        "name": "Nichole Bartley"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:24.8",
+        "name": "Janet Trujillo"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:44.6",
+        "name": "Rachel Sauder"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Wisconsin",
+    "mark_str": "11:19.96",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:11.2",
+        "name": "Jen Metz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.7",
+        "name": "Jenny Paynter"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:25.7",
+        "name": "Julie Cote"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.4",
+        "name": "Amy Wickus"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Arkansas",
+    "mark_str": "11:20.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:08.5",
+        "name": "Catherine Allsop"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "57.8",
+        "name": "Felisha Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:27.9",
+        "name": "Trine Pilskog"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:45.8",
+        "name": "Megan Flowers"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "North Carolina",
+    "mark_str": "11:21.77",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:08.4",
+        "name": "Monique Hunt"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.2",
+        "name": "LaTasha Colander"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:28.7",
+        "name": "Kelly Donahoe"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:49.5",
+        "name": "Karen Godlock"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Stanford",
+    "mark_str": "11:25.82",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.5",
+        "name": "Dena Dey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.9",
+        "name": "Tyra Holt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:28.2",
+        "name": "Monal Chokshi"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:52.2",
+        "name": "Sarna Renfro"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Florida",
+    "mark_str": "11:29.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:14.5",
+        "name": "Joanna McLaughlin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.6",
+        "name": "Kierstin Doyle"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:31.0",
+        "name": "Jessica Scafidi"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.9",
+        "name": "Kim Fisher"
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Boston College",
+    "mark_str": "11:29.12",
+    "source_url": "https://www.newspapers.com/article/the-boston-globe-miscellany-kenyan-dist/195338496/",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:14.2",
+        "name": "Mary Alice Brady"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "57.7",
+        "name": "Carolyn Pimblett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:31.8",
+        "name": "Amy Lyman"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:45.4",
+        "name": "Angela Graham"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Florida State",
+    "mark_str": "3:33.59",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.6",
+        "name": "Sophia Danvers"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.1",
+        "name": "Maria Embon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.9",
+        "name": "Erica Shepard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.0",
+        "name": "Yashiva Edwards"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Texas",
+    "mark_str": "3:36.23",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.2",
+        "name": "Dana Riley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Zenita Davis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.4",
+        "name": "Suziann Reid"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.8",
+        "name": "Toya Brown"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:36.66",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.0",
+        "name": "Kisha Jett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.7",
+        "name": "Chequita Fortson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Melynda Springer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.0",
+        "name": "Ebony Robinson"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "George Mason",
+    "mark_str": "3:37.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.0",
+        "name": "Janelle Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.9",
+        "name": "Kim Baldwin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.0",
+        "name": "Staci Hubbard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.5",
+        "name": "Renea Jordan"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Texas A&M",
+    "mark_str": "3:37.61",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.2",
+        "name": "April King"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.7",
+        "name": "Anjanette Kirkland"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.4",
+        "name": "Adrian Sawyer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.3",
+        "name": "Rosa Jolivet"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "North Carolina",
+    "mark_str": "3:38.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Leigh Dickson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "LaTasha Colander"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Monique Hunt"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.3",
+        "name": "Monique Hennagan"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Nebraska",
+    "mark_str": "3:40.92",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.4",
+        "name": "Travis Miller"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.4",
+        "name": "Jill Myatt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.3",
+        "name": "Charmaine Plummer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "55.8",
+        "name": "La'Tisha Croom"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Villanova",
+    "mark_str": "11:17.88",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.1",
+        "name": "Krestena Sullivan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "57.0",
+        "name": "Cuyler Goodwin"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:24.6",
+        "name": "Kristine Jost"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.2",
+        "name": "Jen Rhines"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "11:20.93",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "2:10.4",
+        "name": "Amy Ross"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.7",
+        "name": "Bridget Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "3:31.2",
+        "name": "Laura Sturges"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:43.6",
+        "name": "Joline Staeheli"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Penn State",
+    "mark_str": "11:21.69",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sue Huelster"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Erica Bosler"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Erin St. John"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Kim McGreevy"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Stanford",
+    "mark_str": "11:21.95",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Dena Dey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tyra Holt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Monal Chokshi"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Mary Cobb"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Florida",
+    "mark_str": "11:29.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Hazel Clark"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Anglea Fitts"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kim Fisher"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Becki Wells"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Kansas",
+    "mark_str": "11:34.00",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kerri Woolheater"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Latanya Holloway"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Kristi Kloster"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Melissa Swartz"
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Providence",
+    "mark_str": "11:34.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Susan Murnane"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Erin Murphy"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Maria McCambridge"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Marie McMahon"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Texas",
+    "mark_str": "3:35.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.1",
+        "name": "Zenita Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.7",
+        "name": "Suziann Reid"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "52.8",
+        "name": "Donna Howard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.4",
+        "name": "Toya Brown"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Nebraska",
+    "mark_str": "3:35.40",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.6",
+        "name": "La'Tisha Croom"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.9",
+        "name": "Jill Myatt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.4",
+        "name": "Stella Klassen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.5",
+        "name": "Charmaine Burton"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida State",
+    "mark_str": "3:36.36",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.8",
+        "name": "Sophia Danvers"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.7",
+        "name": "Maria Embon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Erica Shepard"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.9",
+        "name": "Yashiva Edwards"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Seton Hall",
+    "mark_str": "3:37.52",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.8",
+        "name": "Joycelyn Harris"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.5",
+        "name": "Beverly Pierre"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "55.3",
+        "name": "Daisy Bygrave"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.9",
+        "name": "Althea Tyndall"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Baylor",
+    "mark_str": "3:38.89",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.9",
+        "name": "Melissia Roland"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.5",
+        "name": "Yulanda Nelson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.4",
+        "name": "Stacey Bowers"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.1",
+        "name": "Jennifer Jordan"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Florida",
+    "mark_str": "3:46.16",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.2",
+        "name": "Chequita Fortson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.4",
+        "name": "Beth Cranston"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.7",
+        "name": "Jernae Wright"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "57.9",
+        "name": "Cara Evans"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Florida",
+    "mark_str": "11:10.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:32.0",
+        "name": "Megan Newcome"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.2",
+        "name": "Nadia Graham"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:04.9",
+        "name": "Hazel Clark"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:40.2",
+        "name": "Becki Wells"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Wisconsin",
+    "mark_str": "11:13.74",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:30.4",
+        "name": "Janet Westphal"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "57.1",
+        "name": "Markesha McWilliams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:06.3",
+        "name": "Sara Fredrickson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:39.9",
+        "name": "Kathy Butler"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Cornell",
+    "mark_str": "11:14.76",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:27.7",
+        "name": "Becky Dennison"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Kristy Shreve"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jessica Shaw"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Kate Walker"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "George Mason",
+    "mark_str": "11:14.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:33.1",
+        "name": "Mary Pat Erickson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.8",
+        "name": "Staci Hubbard"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:02.1",
+        "name": "Michelle Ballentine"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:44.0",
+        "name": "Amina Amaddah"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "North Carolina",
+    "mark_str": "11:19.20",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:29.0",
+        "name": "Blake Phillips"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.5",
+        "name": "LaTasha Colander"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:08.7",
+        "name": "Erin Hayes"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:47.0",
+        "name": "Karen Godlock"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Villanova",
+    "mark_str": "11:25.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:29.9",
+        "name": "Carmen Douma"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.8",
+        "name": "Leashia Rahr"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.8",
+        "name": "Tamieka Grizzle"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:48.5",
+        "name": "Krestena Sullivan"
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "James Madison",
+    "mark_str": "11:25.73",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:30.1",
+        "name": "Samantha Bates"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.4",
+        "name": "Tamara Stewart"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:14.6",
+        "name": "Sara Carpenter"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:45.6",
+        "name": "Bethany Eigel"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Texas",
+    "mark_str": "3:34.06",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.0",
+        "name": "Alex Valles"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.2",
+        "name": "Toya Brown"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.0",
+        "name": "Sheneka Griffin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.9",
+        "name": "Suziann Reid"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "3:34.92",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.8",
+        "name": "Voneka Bennett"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.0",
+        "name": "Julian Reynolds"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.4",
+        "name": "Sasha Spencer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.7",
+        "name": "Carron Allen"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Florida",
+    "mark_str": "3:35.31",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.9",
+        "name": "Chequita Fortson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.9",
+        "name": "Kisha Jett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.6",
+        "name": "Yolanda Brown-Moore"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.9",
+        "name": "Hazel Clark"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Vanderbilt",
+    "mark_str": "3:36.73",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.6",
+        "name": "Hope McIntosh"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.0",
+        "name": "Amanda Helberg"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.1",
+        "name": "Michele Baskin"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.0",
+        "name": "Ryan Tolbert"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Clemson",
+    "mark_str": "3:37.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "56.4",
+        "name": "LaShinda Cutchin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.0",
+        "name": "Samanthe Watt"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "52.8",
+        "name": "Nikkie Bouyer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.1",
+        "name": "Shekera Weston"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Louisiana State",
+    "mark_str": "3:37.38",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.4",
+        "name": "Somalia Lindsey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.4",
+        "name": "Peta-Gaye Dowdie"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.9",
+        "name": "Myra Combs"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.7",
+        "name": "Astia Walker"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Illinois",
+    "mark_str": "3:38.79",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.7",
+        "name": "Candace Nicholson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.2",
+        "name": "Aleisha Latimer"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "56.5",
+        "name": "Aspen Burkett"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.4",
+        "name": "Yvonne Harrison"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Wisconsin",
+    "mark_str": "11:10.62",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:22.8",
+        "name": "Janet Westphal"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.3",
+        "name": "April Beard"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:07.8",
+        "name": "Stephanie Pesch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:43.7",
+        "name": "Jenni Westphal"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "11:12.53",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Michelle Muething"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Carron Allen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Katrina de Boer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Autumn Fogg"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Arkansas",
+    "mark_str": "11:14.32",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:23.9",
+        "name": "Jessica Koch Dailey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.6",
+        "name": "Daphne Harris"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.2",
+        "name": "Tracy Robertson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:44.6",
+        "name": "Amy Yoder Begley"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "UTEP",
+    "mark_str": "11:14.34",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alexandra Knoke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Saidat Onanuga"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Jeanette Castro"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Margit Kleis"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "BYU",
+    "mark_str": "11:16.72",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Lindsey Jones-Nadauld"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dixie Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Treva Bryant"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Tara Haynes"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Florida",
+    "mark_str": "11:19.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Shannon Grady"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Yolanda Brown-Moore"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Beth Cranston"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Beth Reed"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Stanford",
+    "mark_str": "11:20.37",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Monal Chokshi"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Heather Miller"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sara Moore"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Sally Glynn"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "Florida",
+    "mark_str": "3:32.10",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.1",
+        "name": "Amber Robinson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.6",
+        "name": "Nadia Graham"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "52.4",
+        "name": "Hazel Clark"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.0",
+        "name": "Yolanda Brown-Moore"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Louisiana State",
+    "mark_str": "3:33.22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.6",
+        "name": "Celena Clarke"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.5",
+        "name": "Myra Combs"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.6",
+        "name": "Peta-Gaye Dowdie"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.5",
+        "name": "Claudine Williams"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "South Carolina",
+    "mark_str": "3:35.90",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.1",
+        "name": "Me'lisa Barber"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.7",
+        "name": "Mikele Barber"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.8",
+        "name": "Ellakisha Williamson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.3",
+        "name": "Char Foster"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "George Mason",
+    "mark_str": "3:36.86",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.0",
+        "name": "Michelle Burgher"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.1",
+        "name": "Cydonie Mothersill"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.7",
+        "name": "Tamika Coombs"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.1",
+        "name": "Janelle Billingslea"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Baylor",
+    "mark_str": "3:36.95",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Angelique Banket"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Quanta Anderson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Barbara Petrahn"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Yulanda Nelson"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Arizona State",
+    "mark_str": "3:37.14",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "55.2",
+        "name": "Arlaina Davis"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.4",
+        "name": "Joronda White"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.6",
+        "name": "Candida Coulson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.9",
+        "name": "Dawnyell Linder"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Missouri State",
+    "mark_str": "3:37.26",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Juliet Pommells"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Verneta Lesforis"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Mashere Harrison"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Augustina Charles"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Nebraska",
+    "mark_str": "3:37.33",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.6",
+        "name": "Cheryl Harmon"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.1",
+        "name": "Seneik Saavedra"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.1",
+        "name": "Lesley Owusu"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.5",
+        "name": "Stella Klassen"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Georgia",
+    "mark_str": "3:38.00",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sharkara Grant"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Dana Burnett"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Aisha Tull"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Debbie Ferguson"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Florida State",
+    "mark_str": "3:38.39",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Chinette Johnson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Samantha George"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Laura Gerber"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Fiona Norwood"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Rice",
+    "mark_str": "3:38.53",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kelly Anderson"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "LeKeisha Robertson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Aimee Teteris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Margaret Fox"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 2,
+    "school": "BYU",
+    "mark_str": "11:12.22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Melanie Steere"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Julie Bennion"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Treva Bryant"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Lindsay Jones-Nadauld"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Tulane",
+    "mark_str": "11:14.67",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:27.3",
+        "name": "Hanne Lyngstad"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.7",
+        "name": "Lana Garner"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.1",
+        "name": "Katrina Gemmell"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:43.6",
+        "name": "Alison Lambert"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Arkansas",
+    "mark_str": "11:14.68",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:28.2",
+        "name": "Amy Yoder Begley"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "56.3",
+        "name": "Daphne Harris"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:08.4",
+        "name": "Tracy Robertson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:41.8",
+        "name": "Jessica Koch Dailey"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "West Virginia",
+    "mark_str": "11:14.68",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Rebecca Stallwood"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tameca Williams"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Merissa Sexsmith"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Kate Vermeulen"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Rice",
+    "mark_str": "11:17.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Kari Vigerstol"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Margaret Fox"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Aimee Teteris"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Erin Brand"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 7,
+    "school": "Michigan",
+    "mark_str": "11:18.12",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Lisa Ouellet"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Adrienne Hunter"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sarah Hamilton"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Katie McGregor"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Oklahoma State",
+    "mark_str": "11:20.55",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Alexandra Lindquist"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Krystal Beamon"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Andrene Thompson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Hanna Smedstad"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Wisconsin",
+    "mark_str": "11:35.88",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Bethany Brewster"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Avrie Walters"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Stephanie Pesch"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Jenelle Deatherage"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Florida",
+    "mark_str": "11:37.02",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Christina Starr"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Cara Evans"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Tamieka Grizzle"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Hazel Clark"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Bowling Green State",
+    "mark_str": "11:37.35",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Libby Mitchell"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Tracy Hill"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Christine Thompson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Hanane Sabri"
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Tennessee",
+    "mark_str": "11:49.12",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Sharon Dickie"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Lesly Love"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Janelle Briggs"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Maureen Ferris"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Mississippi",
+    "mark_str": "3:45.45",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": null,
+        "name": "Jasmine Dacus"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": null,
+        "name": "Kristin Bridges"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": null,
+        "name": "Sofia Hellberg-Jonsen"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": null,
+        "name": "Sofie Persson"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 3,
+    "school": "Georgetown",
+    "mark_str": "11:01.40",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:26.14",
+        "name": "Renee Tomlin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.65",
+        "name": "Abigail Johnson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:09.31",
+        "name": "Rachel Schneider"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:33.32",
+        "name": "Emily Infeld"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Texas Tech",
+    "mark_str": "11:09.53",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:26.63",
+        "name": "Purity Biwott"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.32",
+        "name": "Trudeann Clarke"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:11.35",
+        "name": "Gladys Kipsang"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:38.23",
+        "name": "Caroline Karunde"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 6,
+    "school": "Kansas",
+    "mark_str": "11:11.46",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:27.78",
+        "name": "Rebeka Stowe"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.33",
+        "name": "Taylor Washington"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:10.47",
+        "name": "Corinne Christenson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:38.88",
+        "name": "Lauren Bonds"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 9,
+    "school": "BYU",
+    "mark_str": "11:16.93",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:27.77",
+        "name": "Lacey Cramer"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.92",
+        "name": "Natalie Stewart"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:07.86",
+        "name": "Nachelle Stewart"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.38",
+        "name": "Angela Wagner"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Michigan",
+    "mark_str": "11:19.33",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:27.56",
+        "name": "Jillian Smith"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.79",
+        "name": "Shana Vinson"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:09.84",
+        "name": "Rebecca Addison"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.14",
+        "name": "Danielle Tauro"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 8,
+    "school": "Oregon",
+    "mark_str": "3:34.98",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.44",
+        "name": "Chizoba Okodogbe"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.09",
+        "name": "Brianne Theisen"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "54.15",
+        "name": "Amber Purvis"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.30",
+        "name": "Laura Roesler"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 4,
+    "school": "Texas Tech",
+    "mark_str": "11:01.04",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:24.09",
+        "name": "Caroline Jepleting"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.53",
+        "name": "Erica Alexander"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:05.96",
+        "name": "Purity Biwott"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:37.46",
+        "name": "Caroline Karunde"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 5,
+    "school": "Arkansas",
+    "mark_str": "10:59.22",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:23.78",
+        "name": "Nikki Hiltz"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.16",
+        "name": "Daina Harper"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:06.36",
+        "name": "Therese Haiss"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:35.92",
+        "name": "Jessica Kamilos"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Iowa",
+    "mark_str": "3:33.19",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.89",
+        "name": "Sheridan Champe"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "51.58",
+        "name": "Briana Guillory"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.31",
+        "name": "Brittany Brown"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.41",
+        "name": "Sarah Plock"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 10,
+    "school": "Clemson",
+    "mark_str": "3:33.44",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "53.51",
+        "name": "Olivia James"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.64",
+        "name": "Kendra Clarke"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.65",
+        "name": "Kamryn McIntosh"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.65",
+        "name": "Fellan Ferguson"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Ohio State",
+    "mark_str": "3:33.70",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.90",
+        "name": "Beatrice Hannan"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "52.40",
+        "name": "Karrington Winters"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.43",
+        "name": "Syaira Richardson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.99",
+        "name": "Maggie Barrie"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Tennessee",
+    "mark_str": "3:33.79",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.20",
+        "name": "Brooklynn Broadwater"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.64",
+        "name": "Shania Collins"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.47",
+        "name": "Lenysse Dyer"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "52.49",
+        "name": "Felecia Majors"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 13,
+    "school": "Oklahoma",
+    "mark_str": "3:34.58",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.18",
+        "name": "Ama Pipi"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.55",
+        "name": "Mia Mukes"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.20",
+        "name": "Evette Blanks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.66",
+        "name": "Medinah Spencer"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 14,
+    "school": "Duke",
+    "mark_str": "3:35.51",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.80",
+        "name": "India Lowe"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.55",
+        "name": "MacKenzie Kerr"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.55",
+        "name": "Brittany Aveni"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "53.62",
+        "name": "Madeline Price"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 15,
+    "school": "Kansas",
+    "mark_str": "3:35.83",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "54.45",
+        "name": "Megan Linder"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.66",
+        "name": "Mariah Kuykendoll"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.45",
+        "name": "Nicole Montgomery"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "54.27",
+        "name": "Honour Finley"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "4x400m Relay",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 16,
+    "school": "Alabama",
+    "mark_str": "3:42.93",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "52.94",
+        "name": "Daija Lampkin"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.09",
+        "name": "Tamara Clark"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "53.72",
+        "name": "Mauricia Prieto"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "1:03.20",
+        "name": "Symone Darius"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 9,
+    "school": "Kansas",
+    "mark_str": "11:12.91",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:30.37",
+        "name": "Hannah Dimmick"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.36",
+        "name": "Nicole Montgomery"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:06.86",
+        "name": "Marleena Eubanks"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:42.33",
+        "name": "Courtney Coppinger"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 10,
+    "school": "New Mexico",
+    "mark_str": "11:13.21",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:24.43",
+        "name": "Kieran Casey"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "55.59",
+        "name": "Shalom Keller"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:06.94",
+        "name": "Alondra Negron"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:46.26",
+        "name": "Charlotte Prouse"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 11,
+    "school": "Clemson",
+    "mark_str": "11:31.41",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:39.73",
+        "name": "Kamryn McIntosh"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "54.00",
+        "name": "Olivia James"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:08.54",
+        "name": "Fellan Ferguson"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "4:49.15",
+        "name": "Grace Barnett"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "discipline": "DMR",
+    "gender": "women",
+    "environment": "indoor",
+    "place": 12,
+    "school": "Notre Dame",
+    "mark_str": "11:40.06",
+    "members": [
+      {
+        "leg_idx": 1,
+        "split_time": "3:30.16",
+        "name": "Kelly Hart"
+      },
+      {
+        "leg_idx": 2,
+        "split_time": "53.53",
+        "name": "Jordan Shead"
+      },
+      {
+        "leg_idx": 3,
+        "split_time": "2:16.37",
+        "name": "Samantha Murray"
+      },
+      {
+        "leg_idx": 4,
+        "split_time": "5:00.01",
+        "name": "Annasophia Keller"
+      }
+    ]
+  }
+]

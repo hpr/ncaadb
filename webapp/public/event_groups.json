@@ -1,0 +1,567 @@
+{
+  "outdoor": [
+    {
+      "discipline": "100m",
+      "label": "100 m",
+      "variants": [
+        { "name": "110 yd", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "100 m", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "200m",
+      "label": "200 m",
+      "variants": [
+        { "name": "220 yd", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "200 m", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "400m",
+      "label": "400 m",
+      "variants": [
+        { "name": "440 yd", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "400 m", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "800m",
+      "label": "800 m",
+      "variants": [
+        { "name": "880 yd", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "800 m", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "1500m",
+      "label": "1500 m",
+      "variants": [
+        { "name": "1 mi", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "1500 m", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "3000m",
+      "label": "3000 m",
+      "variants": [
+        { "name": "2 mi", "men": [
+          [1921, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1958]
+        ], "women": null },
+        { "name": "3000 m", "men": null, "women": [[1982, 2000]] }
+      ]
+    },
+    {
+      "discipline": "5000m",
+      "label": "5000 m",
+      "variants": [
+        { "name": "3 mi", "men": [
+          [1959, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "5000 m", "men": [
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "10000m",
+      "label": "10,000 m",
+      "variants": [
+        { "name": "6 mi", "men": [
+          [1963, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "10,000 m", "men": [
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "110m Hurdles",
+      "label": "110 m hurdles",
+      "variants": [
+        { "name": "120 yd hurdles", "men": [
+          [1921, 1931],
+          [1933, 1935],
+          [1937, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "110 m hurdles", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": null }
+      ]
+    },
+    {
+      "discipline": "220y Hurdles",
+      "label": "220 yd hurdles",
+      "variants": [
+        { "name": "220 yd hurdles", "men": [
+          [1921, 1947],
+          [1949, 1951],
+          [1953, 1955],
+          [1957, 1959]
+        ], "women": null }
+      ]
+    },
+    {
+      "discipline": "100m Hurdles",
+      "label": "100 m hurdles",
+      "variants": [
+        { "name": "100 m hurdles", "men": null, "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "400m Hurdles",
+      "label": "400 m hurdles",
+      "variants": [
+        { "name": "440 yd hurdles", "men": [
+          [1959, 1959],
+          [1961, 1963],
+          [1965, 1967],
+          [1969, 1971],
+          [1973, 1975]
+        ], "women": null },
+        { "name": "400 m hurdles", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1960, 1960],
+          [1964, 1964],
+          [1968, 1968],
+          [1972, 1972],
+          [1976, null]
+        ], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Steeplechase",
+      "label": "3000 m steeplechase",
+      "variants": [
+        { "name": "3000 m steeplechase", "men": [
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1959, null]
+        ], "women": [[2001, null]] }
+      ]
+    },
+    {
+      "discipline": "4x100m Relay",
+      "label": "4 × 100 m relay",
+      "variants": [
+        { "name": "4 × 110 yd relay", "men": [[1964, 1975]], "women": null },
+        { "name": "4 × 100 m relay", "men": [[1976, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "4x400m Relay",
+      "label": "4 × 400 m relay",
+      "variants": [
+        { "name": "4 × 440 yd relay", "men": [[1942, 1942], [1947, 1947], [1964, 1975]], "women": null },
+        { "name": "4 × 400 m relay", "men": [[1976, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Long Jump",
+      "label": "Long jump",
+      "variants": [
+        { "name": "Long jump", "men": [[1921, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Triple Jump",
+      "label": "Triple jump",
+      "variants": [
+        { "name": "Triple jump", "men": [
+          [1932, 1932],
+          [1936, 1936],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1959, null]
+        ], "women": [[1984, null]] }
+      ]
+    },
+    {
+      "discipline": "High Jump",
+      "label": "High jump",
+      "variants": [
+        { "name": "High jump", "men": [[1921, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Pole Vault",
+      "label": "Pole vault",
+      "variants": [
+        { "name": "Pole vault", "men": [[1921, null]], "women": [[1998, null]] }
+      ]
+    },
+    {
+      "discipline": "Shot Put",
+      "label": "Shot put",
+      "variants": [
+        { "name": "Shot put", "men": [[1921, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Discus",
+      "label": "Discus throw",
+      "variants": [
+        { "name": "Discus throw", "men": [[1921, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Javelin",
+      "label": "Javelin throw",
+      "variants": [
+        { "name": "Javelin throw", "men": [[1921, null]], "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Hammer",
+      "label": "Hammer throw",
+      "variants": [
+        { "name": "Hammer throw", "men": [
+          [1921, 1935],
+          [1948, 1948],
+          [1952, 1952],
+          [1956, 1956],
+          [1959, null]
+        ], "women": [[1996, null]] }
+      ]
+    },
+    {
+      "discipline": "Heptathlon",
+      "label": "Heptathlon",
+      "variants": [
+        { "name": "Heptathlon", "men": null, "women": [[1982, null]] }
+      ]
+    },
+    {
+      "discipline": "Decathlon",
+      "label": "Decathlon",
+      "variants": [
+        { "name": "Decathlon", "men": [[1970, null]], "women": null }
+      ]
+    }
+  ],
+  "indoor": [
+    {
+      "discipline": "60m",
+      "label": "60 m",
+      "variants": [
+        { "name": "60 yd", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "55 m", "men": [[1984, 1998]], "women": [[1984, 1998]] },
+        { "name": "60 m", "men": [[1999, null]], "women": [[1999, null]] }
+      ]
+    },
+    {
+      "discipline": "200m",
+      "label": "200 m",
+      "variants": [
+        { "name": "200 m", "men": [[1988, null]], "women": [[1988, null]] }
+      ]
+    },
+    {
+      "discipline": "400m",
+      "label": "400 m",
+      "variants": [
+        { "name": "440 yd", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "400 m", "men": [
+          [1984, 1985],
+          [1988, null]
+        ], "women": [
+          [1984, 1985],
+          [1988, null]
+        ] }
+      ]
+    },
+    {
+      "discipline": "500m",
+      "label": "500 m",
+      "variants": [
+        { "name": "600 yd", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "500 m", "men": [[1984, 1987]], "women": [[1984, 1987]] }
+      ]
+    },
+    {
+      "discipline": "800m",
+      "label": "800 m",
+      "variants": [
+        { "name": "880 yd", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "800 m", "men": [[1984, 1985], [1988, null]], "women": [[1984, 1985], [1988, null]] }
+      ]
+    },
+    {
+      "discipline": "1000m",
+      "label": "1000 m",
+      "variants": [
+        { "name": "1000 yd", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "1000 m", "men": [[1984, 1987]], "women": [[1984, 1987]] }
+      ]
+    },
+    {
+      "discipline": "Mile",
+      "label": "Mile",
+      "variants": [
+        { "name": "Mile", "men": [[1965, 1983], [1986, null]], "women": [[1983, 1983], [1986, null]] },
+        { "name": "1500 m", "men": [[1984, 1985]], "women": [[1984, 1985]] }
+      ]
+    },
+    {
+      "discipline": "3000m",
+      "label": "3000 m",
+      "variants": [
+        { "name": "2 mi", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "3000 m", "men": [[1984, null]], "women": [[1984, null]] }
+      ]
+    },
+    {
+      "discipline": "5000m",
+      "label": "5000 m",
+      "variants": [
+        { "name": "3 mi", "men": [[1974, 1982]], "women": null },
+        { "name": "5000 m", "men": [[1989, null]], "women": [[1989, null]] }
+      ]
+    },
+    {
+      "discipline": "60m Hurdles",
+      "label": "60 m hurdles",
+      "variants": [
+        { "name": "60 yd hurdles", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "55 m hurdles", "men": [[1984, 1998]], "women": [[1984, 1998]] },
+        { "name": "60 m hurdles", "men": [[1999, null]], "women": [[1999, null]] }
+      ]
+    },
+    {
+      "discipline": "4x400m Relay",
+      "label": "4 × 400 m relay",
+      "variants": [
+        { "name": "4 × 440 yd relay", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "4 × 400 m relay", "men": [[1984, null]], "women": [[1984, null]] }
+      ]
+    },
+    {
+      "discipline": "4x800m Relay",
+      "label": "4 × 800 m relay",
+      "variants": [
+        { "name": "4 × 880 yd relay", "men": [[1965, 1983]], "women": [[1983, 1983]] },
+        { "name": "4 × 800 m relay", "men": [[1986, 1993]], "women": [[1984, 1993]] }
+      ]
+    },
+    {
+      "discipline": "DMR",
+      "label": "Distance medley relay",
+      "variants": [
+        { "name": "4440 yd medley relay", "men": [[1967, 1982]], "women": null },
+        { "name": "Distance medley relay", "men": [[1984, 1985], [1994, null]], "women": [[1994, null]] }
+      ]
+    },
+    {
+      "discipline": "Long Jump",
+      "label": "Long jump",
+      "variants": [
+        { "name": "Long jump", "men": [[1965, null]], "women": [[1983, null]] }
+      ]
+    },
+    {
+      "discipline": "Triple Jump",
+      "label": "Triple jump",
+      "variants": [
+        { "name": "Triple jump", "men": [[1968, null]], "women": [[1985, null]] }
+      ]
+    },
+    {
+      "discipline": "High Jump",
+      "label": "High jump",
+      "variants": [
+        { "name": "High jump", "men": [[1965, null]], "women": [[1983, null]] }
+      ]
+    },
+    {
+      "discipline": "Pole Vault",
+      "label": "Pole vault",
+      "variants": [
+        { "name": "Pole vault", "men": [[1965, null]], "women": [[1998, null]] }
+      ]
+    },
+    {
+      "discipline": "Shot Put",
+      "label": "Shot put",
+      "variants": [
+        { "name": "Shot put", "men": [[1965, null]], "women": [[1983, null]] }
+      ]
+    },
+    {
+      "discipline": "Weight Throw",
+      "label": "Weight throw",
+      "variants": [
+        { "name": "Weight throw", "men": [[1966, null]], "women": [[1996, null]] }
+      ]
+    },
+    {
+      "discipline": "Pentathlon",
+      "label": "Pentathlon",
+      "variants": [
+        { "name": "Pentathlon", "men": null, "women": [[2004, null]] }
+      ]
+    },
+    {
+      "discipline": "Heptathlon",
+      "label": "Heptathlon",
+      "variants": [
+        { "name": "Heptathlon", "men": [[2004, null]], "women": null }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Fabian Whymns",
+    "school": "UTEP",
+    "discipline": "60m",
+    "gender": "men",
+    "year": 1982,
+    "environment": "indoor",
+    "duplicates": [
+      {"place": 5, "mark_str": "6.20"},
+      {"place": 6, "mark_str": "6.24"}
+    ],
+    "keep_place": 5,
+    "notes": ""
+  },
+  {
+    "name": "Sansiski Daniels",
+    "school": "UT Arlington",
+    "discipline": "60m Hurdles",
+    "gender": "men",
+    "year": 1983,
+    "environment": "indoor",
+    "duplicates": [
+      {"place": 6, "mark_str": "7.30"},
+      {"place": 7, "mark_str": "7.30"}
+    ],
+    "keep_place": 6,
+    "notes": "Mark should be 7.30"
+  },
+  {
+    "name": "Christine McMiken",
+    "school": "Oklahoma State",
+    "discipline": "3000m",
+    "gender": "women",
+    "year": 1984,
+    "environment": "indoor",
+    "duplicates": [
+      {"place": 6, "mark_str": "9:13.84"},
+      {"place": 7, "mark_str": "9:13.84"}
+    ],
+    "keep_place": 6,
+    "notes": ""
+  },
+  {
+    "name": "Dot Jones",
+    "school": "Fresno State",
+    "discipline": "Shot Put",
+    "gender": "women",
+    "year": 1986,
+    "environment": "indoor",
+    "duplicates": [
+      {"place": 4, "mark_str": "16.34m"},
+      {"place": 8, "mark_str": "51-6.5"}
+    ],
+    "keep_place": 8,
+    "notes": ""
+  },
+  {
+    "name": "Braidy Miller",
+    "school": "Eastern Illinois",
+    "discipline": "Weight Throw",
+    "gender": "men",
+    "year": 1992,
+    "environment": "indoor",
+    "duplicates": [
+      {"place": 6, "mark_str": "19.31m"},
+      {"place": 7, "mark_str": "63-4.25"}
+    ],
+    "keep_place": 7,
+    "notes": ""
+  },
+  {
+    "name": "Shelby Frank",
+    "school": "Texas Tech",
+    "discipline": "Hammer",
+    "gender": "women",
+    "year": 2025,
+    "environment": "outdoor",
+    "duplicates": [
+      {"place": 3, "mark_str": "207-11"},
+      {"place": 2, "mark_str": "233-1"}
+    ],
+    "keep_place": 2,
+    "notes": "First page of ncaawht.pdf should be ignored"
+  }
+]
