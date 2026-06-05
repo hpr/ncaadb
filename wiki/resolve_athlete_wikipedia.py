@@ -378,6 +378,25 @@ def format_schools(profile: dict, nicknames: dict[str, str]) -> str:
     return ", ".join(parts)
 
 
+def make_stable_key(profile: dict) -> str:
+    canonical = profile["canonical_name"]
+    schools = set()
+    gender = None
+    start_year = None
+    end_year = None
+    for m in profile["members"]:
+        gender = m["gender"]
+        if m["school"]:
+            schools.add(m["school"])
+        if m.get("year_start") is not None:
+            if start_year is None or m["year_start"] < start_year:
+                start_year = m["year_start"]
+        if m.get("year_end") is not None:
+            if end_year is None or m["year_end"] > end_year:
+                end_year = m["year_end"]
+    return f"{canonical}|{';'.join(sorted(schools))}|{gender}|{start_year}|{end_year}"
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--reverse", action="store_true", help="Process profiles in reverse order (Z to A)")
@@ -410,26 +429,36 @@ def main():
     if args.reverse:
         profiles.reverse()
 
+    current_keys = {make_stable_key(p) for p in profiles}
+
     results = []
-    processed_ids = set()
+    processed_keys = set()
     review_count = 0
     match_count = 0
 
     if OUTPUT_PATH.exists():
         with open(OUTPUT_PATH) as f:
-            results = json.load(f)
-        for r in results:
-            processed_ids.add(r["athlete_id"])
+            raw_results = json.load(f)
+        deduped = {}
+        for r in raw_results:
+            key = f"{r['canonical_name']}|{';'.join(sorted(r.get('schools', [])))}|{r.get('gender','')}|{r.get('start_year','')}|{r.get('end_year','')}"
+            deduped[key] = r
+        stale = {k for k in deduped if k not in current_keys}
+        results = [r for k, r in deduped.items() if k in current_keys]
+        if len(results) != len(raw_results):
+            print(f"Cache: {len(raw_results)} -> {len(results)} entries "
+                  f"({len(raw_results) - len(deduped)} dupes, {len(stale)} stale)")
+        processed_keys = {k for k in deduped if k in current_keys}
         match_count = sum(1 for r in results if r["matches"])
         review_count = sum(1 for r in results if r["needs_review"])
         print(f"Resuming from {len(results)} already processed profiles")
 
-    remaining = sum(1 for p in profiles if p["athlete_id"] not in processed_ids)
+    remaining = sum(1 for p in profiles if make_stable_key(p) not in processed_keys)
     processed_this_run = 0
     run_start = time.time()
 
     for i, profile in enumerate(profiles):
-        if profile["athlete_id"] in processed_ids:
+        if make_stable_key(profile) in processed_keys:
             continue
 
         processed_this_run += 1
