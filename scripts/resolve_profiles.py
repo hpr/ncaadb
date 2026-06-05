@@ -14,6 +14,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = PROJECT_ROOT / "ncaa_history.db"
 PROFILES_PATH = PROJECT_ROOT / "data" / "profiles.json"
+ID_MAP_PATH = PROJECT_ROOT / "data" / "athlete_id_map.json"
 
 YEAR_GAP_THRESHOLD = 5
 
@@ -83,7 +84,7 @@ def apply_profiles(db_path: str, json_path: str):
     conn.commit()
     print(f"  Matched {matched} rows to {num_profiles} explicit profiles")
 
-    # Auto-assign remaining unmatched rows
+    # Auto-assign remaining unmatched rows using stable ID map
     c.execute("""
         SELECT name, gender, school, year
         FROM results
@@ -95,27 +96,49 @@ def apply_profiles(db_path: str, json_path: str):
     for name, gender, school, year in c.fetchall():
         groups[(name, gender, school)].add(year)
 
-    max_id = max((p["athlete_id"] for p in profiles), default=0)
-    next_id = max_id + 1
+    if groups:
+        id_map = {}
+        if ID_MAP_PATH.exists():
+            with open(ID_MAP_PATH) as f:
+                id_map = json.load(f)
 
-    batch = []
-    for (name, gender, school), years in sorted(groups.items()):
-        clusters = split_by_year_gap(years)
-        for cluster in clusters:
-            batch.append((next_id, name, gender, school, min(cluster), max(cluster)))
-            next_id += 1
+        max_id = max(id_map.values()) if id_map else 0
+        next_id = max_id + 1
+        batch = []
+        map_changed = False
 
-    print(f"  Auto-assigning {len(batch)} clusters...")
-    c.executemany(
-        "UPDATE results SET athlete_id = ? "
-        "WHERE name = ? AND gender = ? AND school = ? "
-        "AND year >= ? AND year <= ? AND athlete_id IS NULL",
-        batch
-    )
-    auto_matched = c.rowcount
+        for (name, gender, school), years in sorted(groups.items()):
+            map_key = f"{name}|{school}|{gender}"
+            if map_key in id_map:
+                aid = id_map[map_key]
+            else:
+                aid = next_id
+                next_id += 1
+                id_map[map_key] = aid
+                map_changed = True
+
+            for cluster in split_by_year_gap(years):
+                batch.append((aid, name, gender, school, min(cluster), max(cluster)))
+
+        print(f"  Auto-assigning {len(batch)} clusters...")
+        c.executemany(
+            "UPDATE results SET athlete_id = ? "
+            "WHERE name = ? AND gender = ? AND school = ? "
+            "AND year >= ? AND year <= ? AND athlete_id IS NULL",
+            batch
+        )
+        auto_matched = c.rowcount
+
+        if map_changed:
+            with open(ID_MAP_PATH, 'w') as f:
+                json.dump(id_map, f, indent=2, sort_keys=True)
+            print(f"  Updated {ID_MAP_PATH.name} with {next_id - max_id - 1} new triplet(s)")
+    else:
+        auto_matched = 0
 
     conn.commit()
-    print(f"  Auto-assigned {auto_matched} rows to new profiles (IDs {max_id + 1}–{next_id - 1})")
+    if auto_matched > 0:
+        print(f"  Auto-assigned {auto_matched} rows to new profiles")
 
     # Handle remaining NULLs (relay members, etc.)
     c.execute("SELECT COUNT(*) FROM results WHERE athlete_id IS NULL")

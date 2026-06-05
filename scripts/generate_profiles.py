@@ -20,6 +20,9 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH = PROJECT_ROOT / "ncaa_history.db"
 DECISIONS_PATH = PROJECT_ROOT / "data" / "athlete_decisions.json"
 PROFILES_PATH = PROJECT_ROOT / "data" / "profiles.json"
+ID_MAP_PATH = PROJECT_ROOT / "data" / "athlete_id_map.json"
+
+STARTING_ID = 10001
 
 
 class UnionFind:
@@ -194,13 +197,112 @@ def main():
         min(m['year_start'] for m in p['members']),
         p['canonical_name'].lower(),
     ))
-    for i, p in enumerate(profiles, 10001):
-        p['athlete_id'] = i
+
+    assign_stable_ids(profiles)
 
     with open(PROFILES_PATH, 'w') as f:
         json.dump(profiles, f, indent=2)
 
     print(f"  Generated {len(profiles)} profiles")
+
+
+def assign_stable_ids(profiles):
+    """Assign athlete IDs using a persistent map keyed by (name, school, gender).
+
+    If the map doesn't exist, bootstrap it using the current sort-order IDs.
+    On subsequent runs, IDs are looked up from the map:
+      - 0 hits  → new profile, gets next available ID
+      - 1 hit   → reuse that ID
+      - 2+ hits → two previously separate profiles merged → FAIL FAST
+    Duplicate IDs across profiles also cause failure.
+    """
+    if not ID_MAP_PATH.exists():
+        _bootstrap_id_map(profiles)
+        return
+
+    with open(ID_MAP_PATH) as f:
+        id_map = json.load(f)
+
+    existing_max = max(id_map.values())
+    profile_ids = [None] * len(profiles)
+    new_indices = []
+
+    for i, p in enumerate(profiles):
+        found_ids = set()
+        for m in p['members']:
+            key = f"{m['name']}|{m['school']}|{m['gender']}"
+            if key in id_map:
+                found_ids.add(id_map[key])
+
+        if not found_ids:
+            new_indices.append(i)
+        elif len(found_ids) == 1:
+            profile_ids[i] = found_ids.pop()
+        else:
+            members_str = '; '.join(
+                f"{m['name']} @ {m['school']} ({m['gender']})" for m in p['members']
+            )
+            sys.exit(
+                f"\n  ERROR: Profile merges {len(found_ids)} previously separate IDs.\n"
+                f"  Members: {members_str}\n"
+                f"  Conflicting IDs: {sorted(found_ids)}\n"
+                f"  This likely means a new merge decision combined profiles that had "
+                f"different stable IDs.\n"
+                f"  Edit data/athlete_id_map.json to remap one set of triplets "
+                f"to the other ID, then re-run.\n"
+            )
+
+    id_to_indices = defaultdict(list)
+    for i, aid in enumerate(profile_ids):
+        if aid is not None:
+            id_to_indices[aid].append(i)
+    dupes = {aid: idxs for aid, idxs in id_to_indices.items() if len(idxs) > 1}
+    if dupes:
+        for aid, idxs in sorted(dupes.items()):
+            for i in idxs:
+                p = profiles[i]
+                members = ', '.join(f"{m['name']} @ {m['school']}" for m in p['members'])
+                print(f"  ID {aid} claimed by: {members}")
+        sys.exit(f"\n  ERROR: {len(dupes)} ID(s) assigned to multiple profiles!\n")
+
+    next_id = existing_max + 1
+    for i in new_indices:
+        profile_ids[i] = next_id
+        next_id += 1
+
+    for i, p in enumerate(profiles):
+        p['athlete_id'] = profile_ids[i]
+        for m in p['members']:
+            key = f"{m['name']}|{m['school']}|{m['gender']}"
+            id_map[key] = p['athlete_id']
+
+    with open(ID_MAP_PATH, 'w') as f:
+        json.dump(id_map, f, indent=2, sort_keys=True)
+
+    if new_indices:
+        print(f"  Assigned {len(new_indices)} new ID(s): "
+              f"{existing_max + 1}\u2013{next_id - 1}")
+    print(f"  Stable ID map: {len(id_map)} triplets \u2192 "
+          f"{len(set(id_map.values()))} profiles")
+
+
+def _bootstrap_id_map(profiles):
+    """First-run bootstrap: assign IDs by sort order, build map from result."""
+    print("  No stable ID map found — bootstrapping from current data...")
+    for i, p in enumerate(profiles, STARTING_ID):
+        p['athlete_id'] = i
+
+    id_map = {}
+    for p in profiles:
+        for m in p['members']:
+            key = f"{m['name']}|{m['school']}|{m['gender']}"
+            id_map[key] = p['athlete_id']
+
+    with open(ID_MAP_PATH, 'w') as f:
+        json.dump(id_map, f, indent=2, sort_keys=True)
+
+    print(f"  Bootstrapped {len(id_map)} triplets \u2192 {len(profiles)} profiles")
+    print(f"  Saved {ID_MAP_PATH.name} — IDs will be stable on subsequent runs")
 
 
 if __name__ == '__main__':
