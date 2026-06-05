@@ -1796,5 +1796,44 @@
       "school": "Colorado College"
     },
     "notes": "Denver should be Colorado College"
+  },
+  {
+    "year": 1980,
+    "school": "Minnesota",
+    "discipline": "Steeplechase",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Dan Heikkinen",
+    "place": 6,
+    "corrections": {
+      "school": "Michigan"
+    },
+    "notes": "Minnesota should be Michigan"
+  },
+  {
+    "year": 1990,
+    "school": "Auburn",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Lamont Crichlow",
+    "place": 2,
+    "corrections": {
+      "name": "Eric Crichlow"
+    },
+    "notes": "Should be Eric Crichlow"
+  },
+  {
+    "year": 1991,
+    "school": "Auburn",
+    "discipline": "4x400m Relay",
+    "gender": "men",
+    "environment": "outdoor",
+    "name": "Lamont Crichlow",
+    "place": 3,
+    "corrections": {
+      "name": "Eric Crichlow"
+    },
+    "notes": "Should be Eric Crichlow"
   }
 ]
