@@ -1,6 +1,6 @@
 import initSqlJs, { type Database, type SqlValue, type Statement } from 'sql.js';
 import sqlWasm from 'sql.js/dist/sql-wasm.wasm?url';
-import type { Result, FilterState, AthleteSummary, AthleteProfileResult, School, SchoolProfileResult, Metadata, Gender, Environment, SortState, EventGroupData, YearRange } from './types';
+import type { Result, FilterState, AthleteSummary, AthleteProfileResult, School, SchoolProfileResult, Metadata, Gender, Environment, SortState, EventGroupData, YearRange, RelayTeamMember } from './types';
 
 let db: Database | null = null;
 let eventGroups: EventGroupData | null = null;
@@ -402,6 +402,31 @@ export function searchAthletes(query: string): AthleteProfileResult[] {
     performances: row[4] as number,
     first_year: row[5] as number,
     last_year: row[6] as number,
+  }));
+}
+
+export function getRelayTeamMembers(
+  year: number, discipline: string, gender: string,
+  environment: string, school: string, place: number | null
+): RelayTeamMember[] {
+  if (!db) throw new Error('Database not initialized');
+
+  const sql = `
+    SELECT name, athlete_id, leg_idx, split_time
+    FROM results
+    WHERE year = ? AND discipline = ? AND gender = ?
+      AND environment = ? AND school = ? AND place IS ? AND is_relay = 1
+    ORDER BY leg_idx
+  `;
+
+  const stmt = db.prepare(sql);
+  const rows = runStatement(stmt, [year, discipline, gender, environment, school, place]);
+
+  return rows.map(row => ({
+    name: row[0] as string,
+    athlete_id: row[1] as number | null,
+    leg_idx: row[2] as number | null,
+    split_time: row[3] as string | null,
   }));
 }
 

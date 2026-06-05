@@ -5,7 +5,7 @@ import {
 import { ArrowLeftIcon } from '@phosphor-icons/react';
 import type { Result, Profile, Metadata, Gender, Environment } from '../types';
 import { GENDER_COLOR } from '../types';
-import { getVariantName } from '../db';
+import { getVariantName, getRelayTeamMembers } from '../db';
 import { MarkCell } from './MarkCell';
 import { WikipediaW } from './WikipediaLink';
 
@@ -14,6 +14,7 @@ interface AthleteProfileProps {
   results: Result[];
   onBack: () => void;
   onSchoolClick: (schoolId: number | null) => void;
+  onAthleteClick: (athleteId: number | null) => void;
   metadata?: Metadata | null;
   profilesMap: Map<number, Profile>;
 }
@@ -104,7 +105,7 @@ function computePlacingSummary(results: Result[]): PlacingSummary {
 }
 
 export function AthleteProfile({
-  profile, results, onBack, onSchoolClick, metadata,
+  profile, results, onBack, onSchoolClick, onAthleteClick, metadata,
 }: AthleteProfileProps) {
   const personalBests = useMemo(() => computePersonalBests(results, metadata), [results, metadata]);
   const placingSummary = useMemo(() => computePlacingSummary(results), [results]);
@@ -305,21 +306,64 @@ export function AthleteProfile({
       {results.some(r => r.is_relay === 1) && (
         <div>
           <Title order={4} mb="xs">Relay Appearances</Title>
-          <Stack gap={4}>
-            {results
-              .filter(r => r.is_relay === 1)
-              .map(r => (
-                <Group key={r.id} gap="xs">
-                  <Text size="sm" fw={500}>{r.year}</Text>
-                  <Badge size="xs" variant="light" color={(r.environment ?? 'outdoor') === 'indoor' ? 'cyan' : 'teal'}>
-                    {r.environment === 'indoor' ? 'I' : 'O'}
-                  </Badge>
-                  <Text size="sm">
-                    {getDisciplineLabel(r.discipline, r.year, r.gender, r.environment, metadata)}
-                  </Text>
-                  <Text size="sm" c="dimmed">Pl {r.place ?? '-'}</Text>
-                </Group>
-              ))}
+          <Stack gap="sm">
+            {(() => {
+              const relayResults = results.filter(r => r.is_relay === 1);
+              const teamMap = new Map<string, Result>();
+              for (const r of relayResults) {
+                const key = `${r.year}|${r.discipline}|${r.gender}|${r.environment}|${r.school}|${r.place}`;
+                if (!teamMap.has(key)) teamMap.set(key, r);
+              }
+              const teams = Array.from(teamMap.values());
+              return teams.map(r => {
+                const members = getRelayTeamMembers(
+                  r.year, r.discipline, r.gender,
+                  r.environment ?? 'outdoor', r.school ?? '', r.place
+                );
+                const label = getDisciplineLabel(r.discipline, r.year, r.gender, r.environment, metadata);
+                return (
+                  <Card key={`${r.year}-${r.discipline}-${r.place}-${r.school}`} withBorder padding="sm">
+                    <Group gap="xs" align="baseline" mb={4}>
+                      <Text size="sm" fw={600}>{r.year}</Text>
+                      <Badge size="xs" variant="light" color={(r.environment ?? 'outdoor') === 'indoor' ? 'cyan' : 'teal'}>
+                        {r.environment === 'indoor' ? 'I' : 'O'}
+                      </Badge>
+                      <Text size="sm" fw={500}>{label}</Text>
+                      <Text size="sm" c="dimmed">Pl {r.place ?? '-'}</Text>
+                      <Text size="sm" c="dimmed">{r.mark_str}</Text>
+                    </Group>
+                    <Group gap="lg" wrap="wrap" ml="md">
+                      {members.map(m => {
+                        const isCurrent = m.athlete_id === profile.athlete_id;
+                        const isUnknown = m.name === 'Relay member unknown';
+                        const displayName = isUnknown ? '—' : m.name;
+                        return (
+                          <Group key={`${m.leg_idx}-${m.name}`} gap={4} wrap="nowrap">
+                            <Text size="xs" c="dimmed" style={{ fontVariantNumeric: 'tabular-nums' }}>
+                              {m.leg_idx ? `L${m.leg_idx}` : ''}
+                            </Text>
+                            {isCurrent ? (
+                              <Text size="sm" fw={700}>{displayName}</Text>
+                            ) : m.athlete_id != null && !isUnknown ? (
+                              <Anchor size="sm" onClick={() => onAthleteClick(m.athlete_id)} style={{ cursor: 'pointer' }}>
+                                {displayName}
+                              </Anchor>
+                            ) : (
+                              <Text size="sm" c="dimmed">{displayName}</Text>
+                            )}
+                            {m.split_time && (
+                              <Text size="xs" c="dimmed" style={{ fontVariantNumeric: 'tabular-nums' }}>
+                                {m.split_time}
+                              </Text>
+                            )}
+                          </Group>
+                        );
+                      })}
+                    </Group>
+                  </Card>
+                );
+              });
+            })()}
           </Stack>
         </div>
       )}

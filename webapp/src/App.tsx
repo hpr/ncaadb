@@ -269,6 +269,7 @@ function App() {
           results={profileResults}
           onBack={handleBackFromProfile}
           onSchoolClick={handleSchoolProfileClick}
+          onAthleteClick={handleAthleteClick}
           metadata={metadata}
           profilesMap={profilesMap}
         />

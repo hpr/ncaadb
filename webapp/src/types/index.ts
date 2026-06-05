@@ -133,6 +133,13 @@ export interface EventGroupData {
   indoor: EventGroup[];
 }
 
+export interface RelayTeamMember {
+  name: string;
+  athlete_id: number | null;
+  leg_idx: number | null;
+  split_time: string | null;
+}
+
 export interface Metadata {
   years: number[];
   locations: string[];
